@@ -1,0 +1,8 @@
+C:\Users\Josh\source\repos\POE_Part3_st10153536_MainWindow\POE_Part3_st10153536\obj\Debug\net6.0-windows\POE_Part3_st10153536.csproj.AssemblyReference.cache
+C:\Users\Josh\source\repos\POE_Part3_st10153536_MainWindow\POE_Part3_st10153536\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\Josh\source\repos\POE_Part3_st10153536_MainWindow\POE_Part3_st10153536\obj\Debug\net6.0-windows\Property.g.cs
+C:\Users\Josh\source\repos\POE_Part3_st10153536_MainWindow\POE_Part3_st10153536\obj\Debug\net6.0-windows\Rent.g.cs
+C:\Users\Josh\source\repos\POE_Part3_st10153536_MainWindow\POE_Part3_st10153536\obj\Debug\net6.0-windows\Window3.g.cs
+C:\Users\Josh\source\repos\POE_Part3_st10153536_MainWindow\POE_Part3_st10153536\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Josh\source\repos\POE_Part3_st10153536_MainWindow\POE_Part3_st10153536\obj\Debug\net6.0-windows\POE_Part3_st10153536_MarkupCompile.cache
+C:\Users\Josh\source\repos\POE_Part3_st10153536_MainWindow\POE_Part3_st10153536\obj\Debug\net6.0-windows\POE_Part3_st10153536_MarkupCompile.lref

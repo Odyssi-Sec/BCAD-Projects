@@ -1,0 +1,82 @@
+﻿<Window x:Class="POE_Part3_st10153536.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:POE_Part3_st10153536"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Canvas>
+
+        <Rectangle Height="350" Width="600" Canvas.Top="80" Canvas.Right="0" Fill="LightBlue" Stroke="White" StrokeThickness="5" Canvas.Left="190" HorizontalAlignment="Center" VerticalAlignment="Top">
+
+        </Rectangle>
+        <Rectangle Height="350" Width="200" Fill="Pink" Stroke="White" StrokeThickness="5" Canvas.Top="84"/>
+        <Rectangle Height="100" Width="800" Canvas.Bottom="0" Fill="LightGreen" Stroke="White" StrokeThickness="5" Canvas.Top="-6"/>
+
+        <!--Text and Textboxes for income, tax and expenditure-->
+        <Label Height="40" Width="550" Canvas.Right="0" Canvas.Top="95" Canvas.Left="215" HorizontalAlignment="Center" VerticalAlignment="Top">
+            <StackPanel Orientation="Horizontal">
+                <AccessText FontSize="15" Text="Income Before Deductions: " Margin="5,5,5,5"/>
+                <TextBox x:Name="tbincome" FontSize="15" MinWidth="300" ToolTip="ONLY ENTER NUMBERS!!!" Height="22" Width="289" TextChanged="income_TextChanged"/>
+            </StackPanel>
+        </Label>
+        <Label Height="40" Width="550" Canvas.Right="0" Canvas.Top="135" Canvas.Left="215" HorizontalAlignment="Center" VerticalAlignment="Top">
+            <StackPanel Orientation="Horizontal">
+                <AccessText FontSize="15" Text="Estimated Tax Deduction: " Margin="5,0,0,0"/>
+                <TextBox x:Name="tbtax" FontSize="15" MinWidth="318" ToolTip="ONLY ENTER NUMBERS!!!" Width="315" Height="22"/>
+            </StackPanel>
+        </Label>
+        <Label Height="40" Width="550" Canvas.Right="0" Canvas.Top="169" Canvas.Left="215" HorizontalAlignment="Center" VerticalAlignment="Top">
+            <StackPanel Orientation="Horizontal">
+                <AccessText FontSize="15" Text="(Expenses) Grocery: " Margin="5,0,0,0"/>
+                <TextBox x:Name="tbgrocery" FontSize="15" MinWidth="357" ToolTip="ONLY ENTER NUMBERS!!!" TextChanged="grocery_TextChanged"/>
+            </StackPanel>
+        </Label>
+        <Label Height="40" Width="550" Canvas.Right="0" Canvas.Top="209" Canvas.Left="205">
+            <StackPanel Orientation="Horizontal">
+                <AccessText FontSize="15" Text="(Expenses) Water and Lights: " Margin="5,0,0,0"/>
+                <TextBox x:Name="tbwaterLight" FontSize="15" MinWidth="297" ToolTip="ONLY ENTER NUMBERS!!!"/>
+            </StackPanel>
+        </Label>
+        <Label Height="40" Width="550" Canvas.Right="0" Canvas.Top="253" Canvas.Left="215" HorizontalAlignment="Center" VerticalAlignment="Top">
+            <StackPanel Orientation="Horizontal">
+                <AccessText FontSize="15" Text="(Expenses) Travel Costs: " Margin="5,0,0,0"/>
+                <TextBox x:Name="tbtravel" FontSize="15" MinWidth="331" ToolTip="ONLY ENTER NUMBERS!!!"/>
+            </StackPanel>
+        </Label>
+        <Label Height="40" Width="550" Canvas.Right="0" Canvas.Top="290" Canvas.Left="215" HorizontalAlignment="Center" VerticalAlignment="Top">
+            <StackPanel Orientation="Horizontal">
+                <AccessText FontSize="15" Text="(Expenses) Cell Phone Costs: " Margin="5,0,0,0"/>
+                <TextBox x:Name="tbphone" FontSize="15" MinWidth="299" ToolTip="ONLY ENTER NUMBERS!!!"/>
+            </StackPanel>
+        </Label>
+        <Label Height="40" Width="550" Canvas.Right="0" Canvas.Top="329" Canvas.Left="222">
+            <StackPanel Orientation="Horizontal">
+                <AccessText FontSize="15" Text="(Expenses) Other: "/>
+                <TextBox x:Name="tbother" FontSize="15" MinWidth="372" ToolTip="ONLY ENTER NUMBERS!!!"/>
+            </StackPanel>
+        </Label>
+
+
+        <Label Height="50" Width="200" Canvas.Left="0" Canvas.Top="95" HorizontalAlignment="Center" VerticalAlignment="Top">
+            <AccessText FontSize="20" VerticalAlignment="Center" Text="SELECTION: "/>
+        </Label>
+        <Label Height="50" Width="200" Canvas.Left="0" Canvas.Top="224" HorizontalAlignment="Center" VerticalAlignment="Top">
+            <RadioButton x:Name="rbPropety" Checked="rbPropety_Checked" Unchecked="rbPropety_UnChecked" GroupName="group1" FontSize="15" Content="Property"/>
+        </Label>
+        <Label Height="50" Width="200" Canvas.Left="0" Canvas.Top="274" HorizontalAlignment="Center" VerticalAlignment="Top">
+            <RadioButton x:Name="rbRent" Checked="rbRentChecked" Unchecked="rbRentUnchecked" GroupName="group1" FontSize="15" Content="Rent"/>
+        </Label>
+        <Label Height="150" Width="200" Canvas.Left="0" Canvas.Top="180">
+            <StackPanel/>
+        </Label>
+
+        <Button x:Name="bproperty" Click="bpropertyClicked" Content="PROPERTY" FontSize="20" Height="50" Width="150" Canvas.Bottom="0" Canvas.Left="25" Background="Beige" Canvas.Top="25" HorizontalAlignment="Center" VerticalAlignment="Top"/>
+        <Button x:Name="brent" Click="brentClicked" FontSize="20" Height="50" Width="150" Canvas.Bottom="0" Canvas.Left="330" Background="Beige" Canvas.Top="25" HorizontalAlignment="Left" VerticalAlignment="Center" Content="Rent"/>
+        <Button x:Name="bsaving" Click="bsavingClicked" Content="SAVING" FontSize="20" Height="50" Width="150" Canvas.Bottom="0" Canvas.Left="615" Background="Beige" Canvas.Top="25" HorizontalAlignment="Left" VerticalAlignment="Center"/>
+        <Button x:Name="Submit" Click="bsubmit" Content="Submit" FontSize="15" Height="25" Width="60" Canvas.Bottom="120" Canvas.Right="20" Background="Beige" Canvas.Left="712" Canvas.Top="380"/>
+    </Canvas>
+</Window>
+
+
