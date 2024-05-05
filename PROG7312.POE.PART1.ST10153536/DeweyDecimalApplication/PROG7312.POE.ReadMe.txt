@@ -1,0 +1,150 @@
+************************************************************
+Dewey Decimal System Educational Application
+************************************************************
+*  Installation of Readme for Dewey Decimal System Educational Application
+*
+* Please refer to the system requirements to ensure compatibility with your operating system.
+*
+* Github link:
+* https://github.com/VCSTDN/prog7312-part1-Odyssi.git
+************************************************************
+************************************************************
+* Video Link: 
+* https://advtechonline-my.sharepoint.com/:v:/g/personal/st10153536_vcconnect_edu_za/EdUyXVlOJJdGsy5yAfFowYsBPj6BjQHFdC2XAgTELRc6HQ?e=tlXbSn&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19
+************************************************************
+*  CONTENTS OF THIS DOCUMENT
+************************************************************
+* Table of Contents:
+* 	Getting Started:
+*		Prerequisites
+* 		Installation
+* 	Usage:
+*		Numerical Order Mode
+*		Alphabetical Order Mode
+*		Progress Tracking
+*		Timed Challenges
+*		History Tracking
+*		Achievements and Trophies (Future Enhancement)
+*		Scoring System (Future Enhancement)
+*   Identifying Areas Page and Objective
+* Contributing
+* License
+
+
+************************************************************
+* 1.  OVERVIEW
+************************************************************
+*  The Dewey Decimal System Educational Application is a user-friendly tool designed to help users learn and practice the Dewey Decimal Classification System,
+*  a widely used library organization system. This application is specifically developed to enhance the understanding of the call number ordering system used in libraries for easy book retrieval.
+*  Users can interact with the application to practice arranging call numbers correctly, track their progress, and complete timed challenges for efficiency improvement.
+*  The application also keeps a record of users' history for reference.
+************************************************************
+* 2.  SYSTEM REQUIREMENTS
+************************************************************
+
+1. The system must be running on one of the following
+   operating systems:
+   
+   - Microsoft* Windows* Winver10
+
+2. The following operating systems are not supported:
+
+   Any version of the following Microsoft operating systems:
+   - MS-DOS
+   - Windows 3.1
+   - Windows NT 3.51
+   - Windows 95
+   - Windows 98
+   - Windows NT 4.0
+
+   Any version of the following operating systems:
+   - Linux
+
+3. The system should contain at least the minimum system 
+   memory required by the operating system.
+
+4. The following additional software is required:
+
+   - .NET Framework [Version Required for Your Application]
+   - [Any Other Dependencies]
+
+
+************************************************************
+* 3.  INSTALLING THE SOFTWARE
+************************************************************
+
+1. Clone or download this repository to your local machine.
+
+2. Open the project in your preferred .NET development environment (e.g., Visual Studio).
+
+3. Build and run the application.
+
+************************************************************
+* 4.  USAGE
+************************************************************
+The application provides the following functionality:
+************************************************************
+Numerical Order Mode
+************************************************************
+- Select "Numerical Order" mode to practice arranging call numbers in numerical order.
+
+Alphabetical Order Mode
+************************************************************
+- Select "Alphabetical Order" mode to practice arranging call numbers in alphabetical order.
+
+Progress Tracking
+************************************************************
+- A dynamic progress bar visualizes your progress, incrementing only when call numbers are correctly arranged.
+
+Timed Challenges
+************************************************************
+- A timer adds a time-based challenge to the learning experience, encouraging you to complete tasks within a set time frame.
+
+History Tracking
+************************************************************
+- Review your past attempts and progress through the application with detailed records.
+
+Hints for Users
+************************************************************
+- If you get stuck, the application provides hints to assist you in arranging call numbers correctly. Simply click the "Hint" button for guidance.
+
+Achievements and Trophies (Future Enhancement)
+************************************************************
+- Earn virtual badges upon achieving specific milestones, motivating you to excel in call number ordering (Feature coming soon).
+
+Scoring System (Future Enhancement)
+************************************************************
+- Earn points for correct call number arrangements, adding a competitive element to the application (Feature coming soon).
+
+************************************************************
+* 5.  IDENTIFYING AREAS PAGE AND OBJECTIVE
+************************************************************
+The Identifying Areas page is a part of the Dewey Decimal System Educational Application. It focuses on helping users identify Dewey Decimal Categories and their corresponding codes. Here's the objective of the Identifying Areas page:
+
+**Objective: Identify Dewey Decimal Categories**
+
+In this activity, you will be presented with Dewey Decimal numbers and categories. Your goal is to match the Dewey Decimal numbers with their corresponding categories.
+
+Steps:
+1. Examine the Dewey Decimal categories and numbers provided on the page.
+2. Select a Dewey Decimal number (left) and match it with the correct category (right).
+3. Continue matching until you have correctly matched 4 pairs to earn points.
+4. The codes and categories will switch every 4th attempt, so be prepared for new challenges.
+5. Once you have matched 4 pairs, you can choose to proceed to the next question or reset the game.
+
+Have fun learning the Dewey Decimal System!
+
+Dewey Decimal Dictionary:
+- 000 - Generalities
+- 100 - Philosophy & Psychology
+- 200 - Religion
+- 300 - Social Sciences
+- 400 - Language
+- 500 - Natural Sciences & Mathematics
+- 600 - Technology
+- 700 - Arts & Recreation
+- 800 - Literature
+- 900 - History & Geography
+
+************************************************************
+

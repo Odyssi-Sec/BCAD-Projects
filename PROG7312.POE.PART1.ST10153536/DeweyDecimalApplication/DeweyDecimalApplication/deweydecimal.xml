@@ -1,0 +1,376 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<DeweyDecimalSystem>
+	<Category code="000" name="Generalities">
+			<Subcategory code="010" name="Bibliographies">
+				<SubcategoryTitle code="012" name="Bibliographies of Individuals"/>
+				<SubcategoryTitle code="014" name="Bibliographies of Anonymous and Pseudonymous Works"/>
+				<SubcategoryTitle code="016" name="Bibliographies of Works on Specific Subjects"/>
+			</Subcategory>
+			<Subcategory code="020" name="Library and Information Sciences">
+				<SubcategoryTitle code="021" name="Library Relationships (with Archives, Information Centers, etc.)"/>
+				<SubcategoryTitle code="022" name="Administration of Physical Plant"/>
+				<SubcategoryTitle code="025" name="Library Operations"/>
+				<SubcategoryTitle code="027" name="General Libraries"/>
+				<SubcategoryTitle code="028" name="Reading and Use of Other Information Media"/>
+			</Subcategory>
+		</Category>
+	<Category code="100" name="Philosophy and Psychology">
+		<Subcategory code="100" name="Philosophy">
+			<SubcategoryTitle code="102" name="Miscellany"/>
+			<SubcategoryTitle code="103" name="Dictionaries and Encyclopedias"/>
+			<SubcategoryTitle code="106" name="Organizations and Management"/>
+			<SubcategoryTitle code="109" name="History and Collected Biography"/>
+		</Subcategory>
+		<Subcategory code="110" name="Metaphysics">
+			<SubcategoryTitle code="111" name="Ontology"/>
+			<SubcategoryTitle code="113" name="Cosmology (Philosophy of Nature)"/>
+			<SubcategoryTitle code="114" name="Space"/>
+			<SubcategoryTitle code="115" name="Time"/>
+			<SubcategoryTitle code="117" name="Structure"/>
+			<SubcategoryTitle code="118" name="Force and Energy"/>
+		</Subcategory>
+		<Subcategory code="120" name="Epistemology">
+			<SubcategoryTitle code="121" name="Epistemology (Theory of Knowledge)"/>
+			<SubcategoryTitle code="122" name="Causation"/>
+			<SubcategoryTitle code="124" name="Teleology"/>
+			<SubcategoryTitle code="127" name="The Unconscious and the Subconscious"/>
+			<SubcategoryTitle code="128" name="Humankind"/>
+			<SubcategoryTitle code="129" name="Origin and Destiny of Individual Souls"/>
+		</Subcategory>
+		<Subcategory code="130" name="Parapsychology and Occultism">
+			<SubcategoryTitle code="135" name="Dreams and Mysteries"/>
+			<SubcategoryTitle code="137" name="Divinatory Graphology"/>
+			<SubcategoryTitle code="138" name="Physiognomy"/>
+			<SubcategoryTitle code="139" name="Phrenology"/>
+		</Subcategory>
+		<Subcategory code="140" name="Philosophical Schools of Thought">
+			<SubcategoryTitle code="141" name="Idealism and Related Systems and Doctrines"/>
+			<SubcategoryTitle code="144" name="Humanism and Related Systems and Doctrines"/>
+			<SubcategoryTitle code="146" name="Naturalism and Related Systems and Doctrines"/>
+			<SubcategoryTitle code="148" name="Dogmatism, Eclecticism, Liberalism, Syncretism, and Traditionalism"/>
+			<SubcategoryTitle code="149" name="Other Philosophical Systems and Doctrines"/>
+		</Subcategory>
+		<Subcategory code="150" name="Psychology">
+			<SubcategoryTitle code="155" name="Differential and Developmental Psychology"/>
+			<SubcategoryTitle code="158" name="Applied Psychology"/>
+		</Subcategory>
+		<Subcategory code="170" name="Ethics">
+			<SubcategoryTitle code="170" name="Ethics (Moral Philosophy)"/>
+			<SubcategoryTitle code="172" name="Political Ethics"/>
+			<SubcategoryTitle code="178" name="Ethics of Consumption"/>
+			<SubcategoryTitle code="179" name="Other Ethical Norms"/>
+		</Subcategory>
+		<Subcategory code="180" name="Ancient, Medieval, and Eastern Philosophy">
+			<SubcategoryTitle code="184" name="Platonic Philosophy"/>
+			<SubcategoryTitle code="187" name="Epicurean Philosophy"/>
+			<SubcategoryTitle code="189" name="Medieval Western Philosophy"/>
+		</Subcategory>
+		<Subcategory code="190" name="Modern Western Philosophy (19th-century, 20th-century)">
+			<SubcategoryTitle code="192" name="Philosophy of the British Isles"/>
+			<SubcategoryTitle code="194" name="Philosophy of France"/>
+			<SubcategoryTitle code="196" name="Philosophy of Spain and Portugal"/>
+			<SubcategoryTitle code="198" name="Philosophy of Scandinavia and Finland"/>
+		</Subcategory>
+	</Category>
+	<Category code="200" name="Religion">
+		<Subcategory code="200" name="Religion">
+			<SubcategoryTitle code="202" name="Doctrines"/>
+			<SubcategoryTitle code="204" name="Religious Experience, Life, Practice"/>
+			<SubcategoryTitle code="206" name="Leaders and Organization"/>
+			<SubcategoryTitle code="207" name="Missions and Religious Education"/>
+		</Subcategory>
+		<Subcategory code="210" name="Philosophy and Theory of Religion">
+			<SubcategoryTitle code="211" name="Concepts of God"/>
+			<SubcategoryTitle code="212" name="Existence, Ways of Knowing God, Attributes of God"/>
+			<SubcategoryTitle code="213" name="Creation"/>
+			<SubcategoryTitle code="215" name="Science and Religion"/>
+			<SubcategoryTitle code="218" name="Humankind"/>
+		</Subcategory>
+		<Subcategory code="250" name="Christian Orders and Local Church">
+			<SubcategoryTitle code="251" name="Preaching (Homiletics)"/>
+			<SubcategoryTitle code="253" name="Pastoral Office and Work (Pastoral Theology)"/>
+			<SubcategoryTitle code="255" name="Religious Congregations and Orders"/>
+		</Subcategory>
+		<Subcategory code="260" name="Social and Ecclesiastical Theology">
+			<SubcategoryTitle code="261" name="Social Theology and Interreligious Relations and Attitudes"/>
+			<SubcategoryTitle code="264" name="Public Worship"/>
+			<SubcategoryTitle code="265" name="Sacraments, Other Rites, and Acts"/>
+			<SubcategoryTitle code="269" name="Spiritual Renewal"/>
+		</Subcategory>
+	</Category>
+	<Category code="300" name="Social Sciences, Sociology, and Anthropology">
+		<Subcategory code="300" name="Social Sciences, Sociology, and Anthropology">
+			<SubcategoryTitle code="301" name="Sociology and Anthropology"/>
+			<SubcategoryTitle code="303" name="Social Processes"/>
+			<SubcategoryTitle code="305" name="Groups of People"/>
+			<SubcategoryTitle code="306" name="Culture and Institutions"/>
+			<SubcategoryTitle code="307" name="Communities"/>
+		</Subcategory>
+		<Subcategory code="310" name="Statistics">
+			<SubcategoryTitle code="310" name="Collections of General Statistics"/>
+			<SubcategoryTitle code="314" name="General Statistics of Europe"/>
+			<SubcategoryTitle code="316" name="General Statistics of Africa"/>
+			<SubcategoryTitle code="318" name="General Statistics of South America"/>
+		</Subcategory>
+		<Subcategory code="320" name="Political Science">
+			<SubcategoryTitle code="321" name="Systems of Governments and States"/>
+			<SubcategoryTitle code="322" name="Relation of State to Organized Groups and Their Members"/>
+			<SubcategoryTitle code="325" name="International Migration and Colonization"/>
+			<SubcategoryTitle code="326" name="Slavery and Emancipation"/>
+			<SubcategoryTitle code="328" name="The Legislative Process"/>
+		</Subcategory>
+		<Subcategory code="330" name="Economics">
+			<SubcategoryTitle code="332" name="Financial Economics"/>
+			<SubcategoryTitle code="334" name="Cooperatives"/>
+			<SubcategoryTitle code="335" name="Socialism and Related Systems"/>
+			<SubcategoryTitle code="337" name="International Economics"/>
+			<SubcategoryTitle code="339" name="Macroeconomics and Related Topics"/>
+		</Subcategory>
+		<Subcategory code="340" name="Law">
+			<SubcategoryTitle code="341" name="Law of Nations"/>
+			<SubcategoryTitle code="343" name="Military, Defense, Public Property, Public Finance, Tax, Commerce (Trade), Industrial Law"/>
+			<SubcategoryTitle code="345" name="Criminal Law"/>
+			<SubcategoryTitle code="346" name="Private Law"/>
+			<SubcategoryTitle code="347" name="Procedure and Courts"/>
+		</Subcategory>
+		<Subcategory code="350" name="Public Administration and Military Science">
+			<SubcategoryTitle code="352" name="General Considerations of Public Administration"/>
+			<SubcategoryTitle code="357" name="Mounted Forces and Warfare"/>
+			<SubcategoryTitle code="359" name="Sea Forces and Warfare"/>
+		</Subcategory>
+		<Subcategory code="360" name="Social Problems and Social Services">
+			<SubcategoryTitle code="362" name="Social Problems of and Services to Groups of People"/>
+			<SubcategoryTitle code="363" name="Other Social Problems and Services"/>
+			<SubcategoryTitle code="366" name="Secret Associations and Societies"/>
+			<SubcategoryTitle code="368" name="Insurance"/>
+			<SubcategoryTitle code="369" name="Associations"/>
+		</Subcategory>
+		<Subcategory code="370" name="Education">
+			<SubcategoryTitle code="371" name="Schools and Their Activities, Special Education"/>
+			<SubcategoryTitle code="373" name="Secondary Education"/>
+			<SubcategoryTitle code="374" name="Adult Education"/>
+			<SubcategoryTitle code="375" name="Curriculum"/>
+			<SubcategoryTitle code="378" name="Higher Education (Tertiary Education)"/>
+		</Subcategory>
+		<Subcategory code="380" name="Commerce, Communications and Transportation">
+			<SubcategoryTitle code="383" name="Postal Communication"/>
+			<SubcategoryTitle code="386" name="Inland Waterway and Ferry Transportation"/>
+			<SubcategoryTitle code="387" name="Water, Air, Space Transportation"/>
+			<SubcategoryTitle code="388" name="Transportation"/>
+			<SubcategoryTitle code="389" name="Metrology and Standardization"/>
+		</Subcategory>
+		<Subcategory code="390" name="Customs, Etiquette and Folklore">
+			<SubcategoryTitle code="390" name="Customs, Etiquette, Folklore"/>
+			<SubcategoryTitle code="391" name="Costume and Personal Appearance"/>
+			<SubcategoryTitle code="393" name="Death Customs"/>
+			<SubcategoryTitle code="398" name="Folklore"/>
+			<SubcategoryTitle code="399" name="Customs of War and Diplomacy"/>
+		</Subcategory>
+	</Category>
+	<Category code="400" name="Language">
+		<Subcategory code="400" name="Language">
+			<SubcategoryTitle code="401" name="Philosophy and Theory, International Languages"/>
+			<SubcategoryTitle code="402" name="Miscellany"/>
+			<SubcategoryTitle code="404" name="Special Topics of Language"/>
+			<SubcategoryTitle code="405" name="Serial Publications"/>
+			<SubcategoryTitle code="407" name="Education, Research, Related Topics"/>
+			<SubcategoryTitle code="409" name="Geographic Treatment and Biography"/>
+		</Subcategory>
+			<Subcategory code="410" name="Linguistics">
+			<SubcategoryTitle code="411" name="Writing Systems of Standard Forms of Languages"/>
+			<SubcategoryTitle code="414" name="Phonology and Phonetics of Standard Forms of Languages"/>
+			<SubcategoryTitle code="418" name="Standard Usage (Prescriptive Linguistics)"/>
+			<SubcategoryTitle code="419" name="Sign Languages"/>
+		</Subcategory>
+		<Subcategory code="420" name="English and Old English Languages (Anglo-Saxon)">
+			<SubcategoryTitle code="421" name="Writing System, Phonology, Phonetics of Standard English"/>
+			<SubcategoryTitle code="422" name="Etymology of Standard English"/>
+			<SubcategoryTitle code="423" name="Dictionaries of Standard English"/>
+			<SubcategoryTitle code="428" name="Standard English Usage (Prescriptive Linguistics)"/>
+			<SubcategoryTitle code="429" name="Old English (Anglo-Saxon)"/>
+		</Subcategory>
+		<Subcategory code="470" name="Latin and Italic Languages (Latin and Related Italic Languages)">
+			<SubcategoryTitle code="471" name="Writing Systems, Phonology, Phonetics of Classical Latin"/>
+			<SubcategoryTitle code="472" name="Etymology of Classical Latin"/>
+			<SubcategoryTitle code="475" name="Grammar of Classical Latin"/>
+			<SubcategoryTitle code="478" name="Classical Latin Usage (Prescriptive Linguistics)"/>
+		</Subcategory>
+		<Subcategory code="480" name="Classical and Modern Greek Languages (Classical Greek and Related Hellenic Languages)">
+			<SubcategoryTitle code="482" name="Etymology of Classical Greek"/>
+			<SubcategoryTitle code="485" name="Grammar of Classical Greek"/>
+			<SubcategoryTitle code="487" name="Preclassical and Postclassical Greek"/>
+			<SubcategoryTitle code="488" name="Classical Greek Usage (Prescriptive Linguistics)"/>
+		</Subcategory>
+		<Subcategory code="490" name="Other Languages">
+			<SubcategoryTitle code="491" name="East Indo-European and Celtic Languages"/>
+			<SubcategoryTitle code="492" name="Afro-Asiatic Languages"/>
+			<SubcategoryTitle code="495" name="Languages of East and Southeast Asia"/>
+			<SubcategoryTitle code="496" name="African Languages"/>
+			<SubcategoryTitle code="497" name="North American Native Languages"/>
+		</Subcategory>
+	</Category>
+	<Category code="500" name="Science">
+		<Subcategory code="510" name="Mathematics">
+			<SubcategoryTitle code="511" name="General Principles of Mathematics"/>
+			<SubcategoryTitle code="512" name="Algebra"/>
+			<SubcategoryTitle code="513" name="Arithmetic"/>
+			<SubcategoryTitle code="516" name="Geometry"/>
+			<SubcategoryTitle code="519" name="Probabilities and Applied Mathematics"/>
+		</Subcategory>
+		<Subcategory code="520" name="Astronomy and Allied Sciences">
+			<SubcategoryTitle code="521" name="Celestial Mechanics"/>
+			<SubcategoryTitle code="525" name="Earth (Astronomical Geography)"/>
+			<SubcategoryTitle code="526" name="Mathematical Geography"/>
+			<SubcategoryTitle code="529" name="Chronology"/>
+		</Subcategory>
+		<Subcategory code="530" name="Physics">
+			<SubcategoryTitle code="531" name="Classical Mechanics"/>
+			<SubcategoryTitle code="532" name="Fluid Mechanics"/>
+			<SubcategoryTitle code="535" name="Light and Related Radiation"/>
+			<SubcategoryTitle code="537" name="Electricity and Electronics"/>
+			<SubcategoryTitle code="538" name="Magnetism"/>
+		</Subcategory>
+
+		<Subcategory code="550" name="Earth Sciences and Geology">
+			<SubcategoryTitle code="552" name="Petrology"/>
+			<SubcategoryTitle code="553" name="Economic Geology"/>
+			<SubcategoryTitle code="554" name="Sciences of the Globe"/>
+		</Subcategory>
+		<Subcategory code="560" name="Fossils and Prehistoric Life">
+			<SubcategoryTitle code="562" name="Fossil Invertebrates"/>
+			<SubcategoryTitle code="563" name="Miscellaneous Fossil Marine and Seashore Invertebrates"/>
+			<SubcategoryTitle code="566" name="Fossil Chordata"/>
+			<SubcategoryTitle code="569" name="Fossil Mammalia"/>
+		</Subcategory>
+		<Subcategory code="570" name="Biology">
+			<SubcategoryTitle code="571" name="Physiology and Related Subjects"/>
+			<SubcategoryTitle code="572" name="Biochemistry"/>
+			<SubcategoryTitle code="575" name="Specific Parts of and Physiological Systems in Plants"/>
+			<SubcategoryTitle code="577" name="Ecology"/>
+			<SubcategoryTitle code="578" name="Natural History of Organisms and Related Subjects"/>
+		</Subcategory>
+		<Subcategory code="580" name="Plants">
+			<SubcategoryTitle code="585" name="Pinophyta (Gymnosperms)"/>
+			<SubcategoryTitle code="586" name="Cryptogamia (Seedless Plants)"/>
+			<SubcategoryTitle code="587" name="Pteridophyta"/>
+		</Subcategory>
+	</Category>
+	<Category code="600" name="Technology (Applied Sciences)">
+		<Subcategory code="610" name="Medicine and Health">
+			<SubcategoryTitle code="611" name="Human Anatomy, Cytology, Histology"/>
+			<SubcategoryTitle code="612" name="Human Physiology"/>
+			<SubcategoryTitle code="615" name="Pharmacology and Therapeutics"/>
+			<SubcategoryTitle code="616" name="Diseases"/>
+		</Subcategory>
+		<Subcategory code="620" name="Engineering">
+			<SubcategoryTitle code="621" name="Applied Physics"/>
+			<SubcategoryTitle code="622" name="Mining and Related Operations"/>
+			<SubcategoryTitle code="623" name="Military and Nautical Engineering"/>
+			<SubcategoryTitle code="627" name="Hydraulic Engineering"/>
+			<SubcategoryTitle code="628" name="Sanitary Engineering"/>
+		</Subcategory>
+		<Subcategory code="630" name="Agriculture">
+			<SubcategoryTitle code="631" name="Specific Techniques; Apparatus, Equipment, Materials"/>
+			<SubcategoryTitle code="632" name="Plant Injuries, Diseases, Pests"/>
+			<SubcategoryTitle code="633" name="Field and Plantation Crops"/>
+			<SubcategoryTitle code="636" name="Animal Husbandry"/>
+			<SubcategoryTitle code="637" name="Processing Dairy and Related Products"/>
+		</Subcategory>
+		<Subcategory code="640" name="Home and Family Management">
+			<SubcategoryTitle code="645" name="Household Furnishings"/>
+			<SubcategoryTitle code="647" name="Management of Public Households (Institutional Housekeeping)"/>
+			<SubcategoryTitle code="648" name="Housekeeping"/>
+		</Subcategory>
+		<Subcategory code="660" name="Chemical Engineering">
+			<SubcategoryTitle code="660" name="Chemical Engineering and Related Technologies"/>
+			<SubcategoryTitle code="662" name="Technology of Explosives, Fuels, Related Products"/>
+			<SubcategoryTitle code="665" name="Technology of Industrial Oils, Fats, Waxes, Gases"/>
+			<SubcategoryTitle code="668" name="Technology of Other Organic Products"/>
+		</Subcategory>
+		<Subcategory code="670" name="Manufacturing">
+			<SubcategoryTitle code="670" name="Manufacturing"/>
+			<SubcategoryTitle code="674" name="Lumber Processing, Wood Products, Cork"/>
+			<SubcategoryTitle code="675" name="Leather and Fur Processing"/>
+			<SubcategoryTitle code="677" name="Textiles"/>
+			<SubcategoryTitle code="678" name="Elastomers and Elastomer Products"/>
+			<SubcategoryTitle code="679" name="Other Products of Specific Kinds of Materials"/>
+		</Subcategory>
+	</Category>
+	<Category code="700" name="Arts and Recreation">
+		<Subcategory code="710" name="Area Planning and Landscape Architecture">
+			<SubcategoryTitle code="711" name="Area Planning (Civic Art)"/>
+			<SubcategoryTitle code="713" name="Landscape Architecture of Trafficways"/>
+			<SubcategoryTitle code="715" name="Woody Plants in Landscape Architecture"/>
+			<SubcategoryTitle code="717" name="Structures in Landscape Architecture"/>
+			<SubcategoryTitle code="719" name="Natural Landscapes"/>
+		</Subcategory>
+		<Subcategory code="730" name="Sculpture, Ceramics and Metalwork">
+			<SubcategoryTitle code="733" name="Greek, Etruscan, Roman Sculpture"/>
+			<SubcategoryTitle code="738" name="Ceramic Arts"/>
+			<SubcategoryTitle code="739" name="Art Metalwork"/>
+		</Subcategory>
+		<Subcategory code="740" name="Graphic Arts and Decorative Arts">
+			<SubcategoryTitle code="742" name="Perspective in Drawing"/>
+			<SubcategoryTitle code="743" name="Drawing and Drawings by Subject"/>
+			<SubcategoryTitle code="745" name="Decorative Arts"/>
+			<SubcategoryTitle code="747" name="Interior Decoration"/>
+			<SubcategoryTitle code="748" name=""/>
+		</Subcategory>
+		<Subcategory code="770" name="Photography, Computer Art, Film, Video">
+			<SubcategoryTitle code="771" name="Techniques, Procedures, Apparatus, Equipment, Materials"/>
+			<SubcategoryTitle code="773" name="Pigment Processes of Printing"/>
+			<SubcategoryTitle code="776" name="Computer Art (Digital Art)"/>
+			<SubcategoryTitle code="777" name="Cinematography and Videography"/>
+			<SubcategoryTitle code="778" name="Specific Fields and Special Kinds of Photography"/>
+		</Subcategory>
+		<Subcategory code="780" name="Music">
+			<SubcategoryTitle code="781" name="General Principles and Musical Forms"/>
+			<SubcategoryTitle code="783" name="Music for Single Voices"/>
+			<SubcategoryTitle code="784" name="Instruments and Instrumental Ensembles and Their Music"/>
+			<SubcategoryTitle code="786" name="Keyboard, Mechanical, Electrophonic, Percussion Instruments"/>
+			<SubcategoryTitle code="787" name="Stringed Instruments (Chordophones)"/>
+		</Subcategory>
+	</Category>
+	<Category code="800" name="Literature, Rhetoric and Criticism">
+		<Subcategory code="800" name="Literature (Belles-lettres) and Rhetoric">
+			<SubcategoryTitle code="801" name="Philosophy and Theory"/>
+			<SubcategoryTitle code="803" name="Dictionaries, Encyclopedias, Concordances"/>
+			<SubcategoryTitle code="806" name="Organizations and Management"/>
+			<SubcategoryTitle code="809" name="History, Description, Critical Appraisal of More Than Two Literatures"/>
+		</Subcategory>
+		<Subcategory code="890" name="Other Literatures">
+			<SubcategoryTitle code="892" name="Afro-Asiatic Literatures"/>
+			<SubcategoryTitle code="893" name="Non-Semitic Afro-Asiatic Literatures"/>
+			<SubcategoryTitle code="894" name="Literatures of Altaic, Uralic, Hyperborean, Dravidian Languages; Literatures of Miscellaneous Languages of South Asia"/>
+			<SubcategoryTitle code="895" name="Literatures of East and Southeast Asia"/>
+			<SubcategoryTitle code="896" name="African Literatures"/>
+			<SubcategoryTitle code="898" name="Literatures of South American Native Languages"/>
+		</Subcategory>
+	</Category>
+	<Category code="900" name="History and Geography">
+			<Subcategory code="910" name="Geography and Travel">
+			<SubcategoryTitle code="911" name="Historical Geography"/>
+			<SubcategoryTitle code="915" name="Geography of and Travel in Asia"/>
+			<SubcategoryTitle code="916" name="Geography of and Travel in Africa"/>
+			<SubcategoryTitle code="919" name="Geography of and Travel in Australasia, Pacific Ocean Islands, Atlantic Ocean Islands, Arctic Islands, Antarctica, and on Extraterrestrial Worlds"/>
+		</Subcategory>
+		<Subcategory code="930" name="History of Ancient World (to c. 499)">
+			<SubcategoryTitle code="931" name="China to 420"/>
+			<SubcategoryTitle code="932" name="Egypt to 640"/>
+			<SubcategoryTitle code="933" name="Palestine to 70"/>
+			<SubcategoryTitle code="936" name="Europe North and West of Italian Peninsula to c. 499"/>
+			<SubcategoryTitle code="937" name="Italy and Adjacent Territories to 476"/>
+			<SubcategoryTitle code="938" name="Greece to 323"/>
+			<SubcategoryTitle code="939" name="Other Parts of Ancient World"/>
+		</Subcategory>
+		<Subcategory code="990" name="History of Other Areas">
+			<SubcategoryTitle code="993" name="New Zealand"/>
+			<SubcategoryTitle code="994" name="Australia"/>
+			<SubcategoryTitle code="995" name="New Guinea and Neighboring Countries of Melanesia"/>
+			<SubcategoryTitle code="996" name="Polynesia and Other Pacific Ocean Islands"/>
+			<SubcategoryTitle code="997" name="Atlantic Ocean Islands"/>
+			<SubcategoryTitle code="998" name="Arctic Islands and Antarctica"/>
+			<SubcategoryTitle code="999" name="Extraterrestrial Worlds"/>
+		</Subcategory>
+	</Category>
+	</DeweyDecimalSystem>

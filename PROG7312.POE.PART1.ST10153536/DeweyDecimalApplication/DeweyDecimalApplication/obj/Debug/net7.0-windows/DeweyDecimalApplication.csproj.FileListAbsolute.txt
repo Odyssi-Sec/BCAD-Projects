@@ -1,0 +1,71 @@
+C:\Users\Josh\source\repos\DeweyDecimalApplication\DeweyDecimalApplication\obj\Debug\net7.0-windows\DeweyDecimalApplication.csproj.AssemblyReference.cache
+C:\Users\Josh\source\repos\DeweyDecimalApplication\DeweyDecimalApplication\obj\Debug\net7.0-windows\AlphabeticalOrder.baml
+C:\Users\Josh\source\repos\DeweyDecimalApplication\DeweyDecimalApplication\obj\Debug\net7.0-windows\CustomMessageBox.baml
+C:\Users\Josh\source\repos\DeweyDecimalApplication\DeweyDecimalApplication\obj\Debug\net7.0-windows\HistoryAttemp.baml
+C:\Users\Josh\source\repos\DeweyDecimalApplication\DeweyDecimalApplication\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Users\Josh\source\repos\DeweyDecimalApplication\DeweyDecimalApplication\obj\Debug\net7.0-windows\ReplacingBooks.baml
+C:\Users\Josh\source\repos\DeweyDecimalApplication\DeweyDecimalApplication\obj\Debug\net7.0-windows\AlphabeticalOrder.g.cs
+C:\Users\Josh\source\repos\DeweyDecimalApplication\DeweyDecimalApplication\obj\Debug\net7.0-windows\CustomMessageBox.g.cs
+C:\Users\Josh\source\repos\DeweyDecimalApplication\DeweyDecimalApplication\obj\Debug\net7.0-windows\FindingCallNumbers.g.cs
+C:\Users\Josh\source\repos\DeweyDecimalApplication\DeweyDecimalApplication\obj\Debug\net7.0-windows\HistoryAttemp.g.cs
+C:\Users\Josh\source\repos\DeweyDecimalApplication\DeweyDecimalApplication\obj\Debug\net7.0-windows\IdentifyingAreas.g.cs
+C:\Users\Josh\source\repos\DeweyDecimalApplication\DeweyDecimalApplication\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\Josh\source\repos\DeweyDecimalApplication\DeweyDecimalApplication\obj\Debug\net7.0-windows\ReplacingBooks.g.cs
+C:\Users\Josh\source\repos\DeweyDecimalApplication\DeweyDecimalApplication\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\Josh\source\repos\DeweyDecimalApplication\DeweyDecimalApplication\obj\Debug\net7.0-windows\DeweyDecimalApplication_MarkupCompile.cache
+C:\Users\Josh\source\repos\DeweyDecimalApplication\DeweyDecimalApplication\obj\Debug\net7.0-windows\DeweyDecimalApplication_MarkupCompile.lref
+C:\Users\Josh\source\repos\DeweyDecimalApplication\DeweyDecimalApplication\bin\Debug\net7.0-windows\DeweyDecimalApplication.exe
+C:\Users\Josh\source\repos\DeweyDecimalApplication\DeweyDecimalApplication\bin\Debug\net7.0-windows\DeweyDecimalApplication.deps.json
+C:\Users\Josh\source\repos\DeweyDecimalApplication\DeweyDecimalApplication\bin\Debug\net7.0-windows\DeweyDecimalApplication.runtimeconfig.json
+C:\Users\Josh\source\repos\DeweyDecimalApplication\DeweyDecimalApplication\bin\Debug\net7.0-windows\DeweyDecimalApplication.dll
+C:\Users\Josh\source\repos\DeweyDecimalApplication\DeweyDecimalApplication\bin\Debug\net7.0-windows\DeweyDecimalApplication.pdb
+C:\Users\Josh\source\repos\DeweyDecimalApplication\DeweyDecimalApplication\bin\Debug\net7.0-windows\Newtonsoft.Json.dll
+C:\Users\Josh\source\repos\DeweyDecimalApplication\DeweyDecimalApplication\obj\Debug\net7.0-windows\FindingCallNumbers.baml
+C:\Users\Josh\source\repos\DeweyDecimalApplication\DeweyDecimalApplication\obj\Debug\net7.0-windows\IdentifyingAreas.baml
+C:\Users\Josh\source\repos\DeweyDecimalApplication\DeweyDecimalApplication\obj\Debug\net7.0-windows\DeweyDecimalApplication.g.resources
+C:\Users\Josh\source\repos\DeweyDecimalApplication\DeweyDecimalApplication\obj\Debug\net7.0-windows\DeweyDecimalApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Josh\source\repos\DeweyDecimalApplication\DeweyDecimalApplication\obj\Debug\net7.0-windows\DeweyDecimalApplication.AssemblyInfoInputs.cache
+C:\Users\Josh\source\repos\DeweyDecimalApplication\DeweyDecimalApplication\obj\Debug\net7.0-windows\DeweyDecimalApplication.AssemblyInfo.cs
+C:\Users\Josh\source\repos\DeweyDecimalApplication\DeweyDecimalApplication\obj\Debug\net7.0-windows\DeweyDecimalApplication.csproj.CoreCompileInputs.cache
+C:\Users\Josh\source\repos\DeweyDecimalApplication\DeweyDecimalApplication\obj\Debug\net7.0-windows\DeweyDecimalApplication.csproj.CopyComplete
+C:\Users\Josh\source\repos\DeweyDecimalApplication\DeweyDecimalApplication\obj\Debug\net7.0-windows\DeweyDecimalApplication.dll
+C:\Users\Josh\source\repos\DeweyDecimalApplication\DeweyDecimalApplication\obj\Debug\net7.0-windows\refint\DeweyDecimalApplication.dll
+C:\Users\Josh\source\repos\DeweyDecimalApplication\DeweyDecimalApplication\obj\Debug\net7.0-windows\DeweyDecimalApplication.pdb
+C:\Users\Josh\source\repos\DeweyDecimalApplication\DeweyDecimalApplication\obj\Debug\net7.0-windows\DeweyDecimalApplication.genruntimeconfig.cache
+C:\Users\Josh\source\repos\DeweyDecimalApplication\DeweyDecimalApplication\obj\Debug\net7.0-windows\ref\DeweyDecimalApplication.dll
+C:\Users\Josh\Desktop\Bachelor of Computer Applications Development\Year 3\2nd Semester\PROG6212\PROG7312.POE.PART1.ST10153536\DeweyDecimalApplication\DeweyDecimalApplication\bin\Debug\net7.0-windows\DeweyDecimalApplication.exe
+C:\Users\Josh\Desktop\Bachelor of Computer Applications Development\Year 3\2nd Semester\PROG6212\PROG7312.POE.PART1.ST10153536\DeweyDecimalApplication\DeweyDecimalApplication\bin\Debug\net7.0-windows\deweydecimal.xml
+C:\Users\Josh\Desktop\Bachelor of Computer Applications Development\Year 3\2nd Semester\PROG6212\PROG7312.POE.PART1.ST10153536\DeweyDecimalApplication\DeweyDecimalApplication\bin\Debug\net7.0-windows\DeweyDecimalApplication.deps.json
+C:\Users\Josh\Desktop\Bachelor of Computer Applications Development\Year 3\2nd Semester\PROG6212\PROG7312.POE.PART1.ST10153536\DeweyDecimalApplication\DeweyDecimalApplication\bin\Debug\net7.0-windows\DeweyDecimalApplication.runtimeconfig.json
+C:\Users\Josh\Desktop\Bachelor of Computer Applications Development\Year 3\2nd Semester\PROG6212\PROG7312.POE.PART1.ST10153536\DeweyDecimalApplication\DeweyDecimalApplication\bin\Debug\net7.0-windows\DeweyDecimalApplication.dll
+C:\Users\Josh\Desktop\Bachelor of Computer Applications Development\Year 3\2nd Semester\PROG6212\PROG7312.POE.PART1.ST10153536\DeweyDecimalApplication\DeweyDecimalApplication\bin\Debug\net7.0-windows\DeweyDecimalApplication.pdb
+C:\Users\Josh\Desktop\Bachelor of Computer Applications Development\Year 3\2nd Semester\PROG6212\PROG7312.POE.PART1.ST10153536\DeweyDecimalApplication\DeweyDecimalApplication\bin\Debug\net7.0-windows\Newtonsoft.Json.dll
+C:\Users\Josh\Desktop\Bachelor of Computer Applications Development\Year 3\2nd Semester\PROG6212\PROG7312.POE.PART1.ST10153536\DeweyDecimalApplication\DeweyDecimalApplication\obj\Debug\net7.0-windows\DeweyDecimalApplication.csproj.AssemblyReference.cache
+C:\Users\Josh\Desktop\Bachelor of Computer Applications Development\Year 3\2nd Semester\PROG6212\PROG7312.POE.PART1.ST10153536\DeweyDecimalApplication\DeweyDecimalApplication\obj\Debug\net7.0-windows\AlphabeticalOrder.baml
+C:\Users\Josh\Desktop\Bachelor of Computer Applications Development\Year 3\2nd Semester\PROG6212\PROG7312.POE.PART1.ST10153536\DeweyDecimalApplication\DeweyDecimalApplication\obj\Debug\net7.0-windows\CustomMessageBox.baml
+C:\Users\Josh\Desktop\Bachelor of Computer Applications Development\Year 3\2nd Semester\PROG6212\PROG7312.POE.PART1.ST10153536\DeweyDecimalApplication\DeweyDecimalApplication\obj\Debug\net7.0-windows\HistoryAttemp.baml
+C:\Users\Josh\Desktop\Bachelor of Computer Applications Development\Year 3\2nd Semester\PROG6212\PROG7312.POE.PART1.ST10153536\DeweyDecimalApplication\DeweyDecimalApplication\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Users\Josh\Desktop\Bachelor of Computer Applications Development\Year 3\2nd Semester\PROG6212\PROG7312.POE.PART1.ST10153536\DeweyDecimalApplication\DeweyDecimalApplication\obj\Debug\net7.0-windows\ReplacingBooks.baml
+C:\Users\Josh\Desktop\Bachelor of Computer Applications Development\Year 3\2nd Semester\PROG6212\PROG7312.POE.PART1.ST10153536\DeweyDecimalApplication\DeweyDecimalApplication\obj\Debug\net7.0-windows\AlphabeticalOrder.g.cs
+C:\Users\Josh\Desktop\Bachelor of Computer Applications Development\Year 3\2nd Semester\PROG6212\PROG7312.POE.PART1.ST10153536\DeweyDecimalApplication\DeweyDecimalApplication\obj\Debug\net7.0-windows\CustomMessageBox.g.cs
+C:\Users\Josh\Desktop\Bachelor of Computer Applications Development\Year 3\2nd Semester\PROG6212\PROG7312.POE.PART1.ST10153536\DeweyDecimalApplication\DeweyDecimalApplication\obj\Debug\net7.0-windows\FindingCallNumbers.g.cs
+C:\Users\Josh\Desktop\Bachelor of Computer Applications Development\Year 3\2nd Semester\PROG6212\PROG7312.POE.PART1.ST10153536\DeweyDecimalApplication\DeweyDecimalApplication\obj\Debug\net7.0-windows\HistoryAttemp.g.cs
+C:\Users\Josh\Desktop\Bachelor of Computer Applications Development\Year 3\2nd Semester\PROG6212\PROG7312.POE.PART1.ST10153536\DeweyDecimalApplication\DeweyDecimalApplication\obj\Debug\net7.0-windows\IdentifyingAreas.g.cs
+C:\Users\Josh\Desktop\Bachelor of Computer Applications Development\Year 3\2nd Semester\PROG6212\PROG7312.POE.PART1.ST10153536\DeweyDecimalApplication\DeweyDecimalApplication\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\Josh\Desktop\Bachelor of Computer Applications Development\Year 3\2nd Semester\PROG6212\PROG7312.POE.PART1.ST10153536\DeweyDecimalApplication\DeweyDecimalApplication\obj\Debug\net7.0-windows\ReplacingBooks.g.cs
+C:\Users\Josh\Desktop\Bachelor of Computer Applications Development\Year 3\2nd Semester\PROG6212\PROG7312.POE.PART1.ST10153536\DeweyDecimalApplication\DeweyDecimalApplication\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\Josh\Desktop\Bachelor of Computer Applications Development\Year 3\2nd Semester\PROG6212\PROG7312.POE.PART1.ST10153536\DeweyDecimalApplication\DeweyDecimalApplication\obj\Debug\net7.0-windows\DeweyDecimalApplication_MarkupCompile.cache
+C:\Users\Josh\Desktop\Bachelor of Computer Applications Development\Year 3\2nd Semester\PROG6212\PROG7312.POE.PART1.ST10153536\DeweyDecimalApplication\DeweyDecimalApplication\obj\Debug\net7.0-windows\DeweyDecimalApplication_MarkupCompile.lref
+C:\Users\Josh\Desktop\Bachelor of Computer Applications Development\Year 3\2nd Semester\PROG6212\PROG7312.POE.PART1.ST10153536\DeweyDecimalApplication\DeweyDecimalApplication\obj\Debug\net7.0-windows\FindingCallNumbers.baml
+C:\Users\Josh\Desktop\Bachelor of Computer Applications Development\Year 3\2nd Semester\PROG6212\PROG7312.POE.PART1.ST10153536\DeweyDecimalApplication\DeweyDecimalApplication\obj\Debug\net7.0-windows\IdentifyingAreas.baml
+C:\Users\Josh\Desktop\Bachelor of Computer Applications Development\Year 3\2nd Semester\PROG6212\PROG7312.POE.PART1.ST10153536\DeweyDecimalApplication\DeweyDecimalApplication\obj\Debug\net7.0-windows\DeweyDecimalApplication.g.resources
+C:\Users\Josh\Desktop\Bachelor of Computer Applications Development\Year 3\2nd Semester\PROG6212\PROG7312.POE.PART1.ST10153536\DeweyDecimalApplication\DeweyDecimalApplication\obj\Debug\net7.0-windows\DeweyDecimalApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Josh\Desktop\Bachelor of Computer Applications Development\Year 3\2nd Semester\PROG6212\PROG7312.POE.PART1.ST10153536\DeweyDecimalApplication\DeweyDecimalApplication\obj\Debug\net7.0-windows\DeweyDecimalApplication.AssemblyInfoInputs.cache
+C:\Users\Josh\Desktop\Bachelor of Computer Applications Development\Year 3\2nd Semester\PROG6212\PROG7312.POE.PART1.ST10153536\DeweyDecimalApplication\DeweyDecimalApplication\obj\Debug\net7.0-windows\DeweyDecimalApplication.AssemblyInfo.cs
+C:\Users\Josh\Desktop\Bachelor of Computer Applications Development\Year 3\2nd Semester\PROG6212\PROG7312.POE.PART1.ST10153536\DeweyDecimalApplication\DeweyDecimalApplication\obj\Debug\net7.0-windows\DeweyDecimalApplication.csproj.CoreCompileInputs.cache
+C:\Users\Josh\Desktop\Bachelor of Computer Applications Development\Year 3\2nd Semester\PROG6212\PROG7312.POE.PART1.ST10153536\DeweyDecimalApplication\DeweyDecimalApplication\obj\Debug\net7.0-windows\DeweyDecimalApplication.csproj.CopyComplete
+C:\Users\Josh\Desktop\Bachelor of Computer Applications Development\Year 3\2nd Semester\PROG6212\PROG7312.POE.PART1.ST10153536\DeweyDecimalApplication\DeweyDecimalApplication\obj\Debug\net7.0-windows\DeweyDecimalApplication.dll
+C:\Users\Josh\Desktop\Bachelor of Computer Applications Development\Year 3\2nd Semester\PROG6212\PROG7312.POE.PART1.ST10153536\DeweyDecimalApplication\DeweyDecimalApplication\obj\Debug\net7.0-windows\refint\DeweyDecimalApplication.dll
+C:\Users\Josh\Desktop\Bachelor of Computer Applications Development\Year 3\2nd Semester\PROG6212\PROG7312.POE.PART1.ST10153536\DeweyDecimalApplication\DeweyDecimalApplication\obj\Debug\net7.0-windows\DeweyDecimalApplication.pdb
+C:\Users\Josh\Desktop\Bachelor of Computer Applications Development\Year 3\2nd Semester\PROG6212\PROG7312.POE.PART1.ST10153536\DeweyDecimalApplication\DeweyDecimalApplication\obj\Debug\net7.0-windows\DeweyDecimalApplication.genruntimeconfig.cache
+C:\Users\Josh\Desktop\Bachelor of Computer Applications Development\Year 3\2nd Semester\PROG6212\PROG7312.POE.PART1.ST10153536\DeweyDecimalApplication\DeweyDecimalApplication\obj\Debug\net7.0-windows\ref\DeweyDecimalApplication.dll

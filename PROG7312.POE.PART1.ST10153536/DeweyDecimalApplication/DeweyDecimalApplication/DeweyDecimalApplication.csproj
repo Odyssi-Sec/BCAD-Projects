@@ -1,0 +1,58 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net7.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="FindingCallNumbers.jpg" />
+    <None Remove="IdentifyingAreas.jpeg" />
+    <None Remove="Images\backIcon.png" />
+    <None Remove="Images\checkIcon.png" />
+    <None Remove="Images\clearIcon.png" />
+    <None Remove="Images\forest-wallpaper.jpg" />
+    <None Remove="Images\generateIcon.png" />
+    <None Remove="Images\hintIcon.png" />
+    <None Remove="Images\transfer.png" />
+    <None Remove="Images\transferBack.png" />
+    <None Remove="Images\trophy_gold.png" />
+    <None Remove="Images\well-done.gif" />
+    <None Remove="ReplacingBooks.jpg" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Images\backIcon.png" />
+    <Resource Include="Images\checkIcon.png" />
+    <Resource Include="Images\clearIcon.png" />
+    <Resource Include="Images\FindingCallNumbers.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Images\forest-wallpaper.jpg" />
+    <Resource Include="Images\generateIcon.png" />
+    <Resource Include="Images\hintIcon.png" />
+    <Resource Include="Images\IdentifyingAreas.jpeg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Images\ReplacingBooks.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Images\transfer.png" />
+    <Resource Include="Images\transferBack.png" />
+    <Resource Include="Images\trophy_gold.png" />
+    <Resource Include="Images\well-done.gif" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Update="deweydecimal.xml">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+
+</Project>

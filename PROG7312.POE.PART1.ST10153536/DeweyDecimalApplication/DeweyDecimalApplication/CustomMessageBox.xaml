@@ -1,0 +1,12 @@
+﻿<Window x:Class="DeweyDecimalApplication.CustomMessageBox"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="CustomMessageBox" WindowStyle="None" ResizeMode="NoResize">
+    <Grid Background="White" Width="300" Height="150">
+        <StackPanel VerticalAlignment="Center" HorizontalAlignment="Center">
+            <Image Name="GifImage" Width="200" Height="100" />
+            <TextBlock Text="" HorizontalAlignment="Center" Margin="0,10" />
+            <Button Content="OK" Width="25" Height="25" Click="OKButton_Click" />
+        </StackPanel>
+    </Grid>
+</Window>
