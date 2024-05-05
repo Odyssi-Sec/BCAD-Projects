@@ -1,0 +1,147 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Josh\\Desktop\\Bachelor of Computer Applications Development - Copy\\Year 2\\Programming C#\\POE_Part3_st10153536_MainWindow\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1C9993E7-8DAF-4CBF-8EAE-52AC3A2A505C}|POE_Part3_st10153536\\POE_Part3_st10153536.csproj|c:\\users\\josh\\desktop\\bachelor of computer applications development - copy\\year 2\\programming c#\\poe_part3_st10153536_mainwindow\\poe_part3_st10153536\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1C9993E7-8DAF-4CBF-8EAE-52AC3A2A505C}|POE_Part3_st10153536\\POE_Part3_st10153536.csproj|solutionrelative:poe_part3_st10153536\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C9993E7-8DAF-4CBF-8EAE-52AC3A2A505C}|POE_Part3_st10153536\\POE_Part3_st10153536.csproj|c:\\users\\josh\\desktop\\bachelor of computer applications development - copy\\year 2\\programming c#\\poe_part3_st10153536_mainwindow\\poe_part3_st10153536\\savings.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1C9993E7-8DAF-4CBF-8EAE-52AC3A2A505C}|POE_Part3_st10153536\\POE_Part3_st10153536.csproj|solutionrelative:poe_part3_st10153536\\savings.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C9993E7-8DAF-4CBF-8EAE-52AC3A2A505C}|POE_Part3_st10153536\\POE_Part3_st10153536.csproj|c:\\users\\josh\\desktop\\bachelor of computer applications development - copy\\year 2\\programming c#\\poe_part3_st10153536_mainwindow\\poe_part3_st10153536\\rent.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1C9993E7-8DAF-4CBF-8EAE-52AC3A2A505C}|POE_Part3_st10153536\\POE_Part3_st10153536.csproj|solutionrelative:poe_part3_st10153536\\rent.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C9993E7-8DAF-4CBF-8EAE-52AC3A2A505C}|POE_Part3_st10153536\\POE_Part3_st10153536.csproj|c:\\users\\josh\\desktop\\bachelor of computer applications development - copy\\year 2\\programming c#\\poe_part3_st10153536_mainwindow\\poe_part3_st10153536\\property.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1C9993E7-8DAF-4CBF-8EAE-52AC3A2A505C}|POE_Part3_st10153536\\POE_Part3_st10153536.csproj|solutionrelative:poe_part3_st10153536\\property.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C9993E7-8DAF-4CBF-8EAE-52AC3A2A505C}|POE_Part3_st10153536\\POE_Part3_st10153536.csproj|c:\\users\\josh\\desktop\\bachelor of computer applications development - copy\\year 2\\programming c#\\poe_part3_st10153536_mainwindow\\poe_part3_st10153536\\rent.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C9993E7-8DAF-4CBF-8EAE-52AC3A2A505C}|POE_Part3_st10153536\\POE_Part3_st10153536.csproj|solutionrelative:poe_part3_st10153536\\rent.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C9993E7-8DAF-4CBF-8EAE-52AC3A2A505C}|POE_Part3_st10153536\\POE_Part3_st10153536.csproj|c:\\users\\josh\\desktop\\bachelor of computer applications development - copy\\year 2\\programming c#\\poe_part3_st10153536_mainwindow\\poe_part3_st10153536\\property.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C9993E7-8DAF-4CBF-8EAE-52AC3A2A505C}|POE_Part3_st10153536\\POE_Part3_st10153536.csproj|solutionrelative:poe_part3_st10153536\\property.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C9993E7-8DAF-4CBF-8EAE-52AC3A2A505C}|POE_Part3_st10153536\\POE_Part3_st10153536.csproj|c:\\users\\josh\\desktop\\bachelor of computer applications development - copy\\year 2\\programming c#\\poe_part3_st10153536_mainwindow\\poe_part3_st10153536\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C9993E7-8DAF-4CBF-8EAE-52AC3A2A505C}|POE_Part3_st10153536\\POE_Part3_st10153536.csproj|solutionrelative:poe_part3_st10153536\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Josh\\source\\repos\\POE_Part3_st10153536_MainWindow\\POE_Part3_st10153536\\Window3.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 288,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Property.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Josh\\Desktop\\Bachelor of Computer Applications Development - Copy\\Year 2\\Programming C#\\POE_Part3_st10153536_MainWindow\\POE_Part3_st10153536\\Property.xaml.cs",
+              "RelativeDocumentMoniker": "POE_Part3_st10153536\\Property.xaml.cs",
+              "ToolTip": "C:\\Users\\Josh\\Desktop\\Bachelor of Computer Applications Development - Copy\\Year 2\\Programming C#\\POE_Part3_st10153536_MainWindow\\POE_Part3_st10153536\\Property.xaml.cs",
+              "RelativeToolTip": "POE_Part3_st10153536\\Property.xaml.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAiwD0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T21:51:12.34Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Property.xaml",
+              "DocumentMoniker": "C:\\Users\\Josh\\Desktop\\Bachelor of Computer Applications Development - Copy\\Year 2\\Programming C#\\POE_Part3_st10153536_MainWindow\\POE_Part3_st10153536\\Property.xaml",
+              "RelativeDocumentMoniker": "POE_Part3_st10153536\\Property.xaml",
+              "ToolTip": "C:\\Users\\Josh\\Desktop\\Bachelor of Computer Applications Development - Copy\\Year 2\\Programming C#\\POE_Part3_st10153536_MainWindow\\POE_Part3_st10153536\\Property.xaml",
+              "RelativeToolTip": "POE_Part3_st10153536\\Property.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-05T21:51:12.343Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Rent.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Josh\\Desktop\\Bachelor of Computer Applications Development - Copy\\Year 2\\Programming C#\\POE_Part3_st10153536_MainWindow\\POE_Part3_st10153536\\Rent.xaml.cs",
+              "RelativeDocumentMoniker": "POE_Part3_st10153536\\Rent.xaml.cs",
+              "ToolTip": "C:\\Users\\Josh\\Desktop\\Bachelor of Computer Applications Development - Copy\\Year 2\\Programming C#\\POE_Part3_st10153536_MainWindow\\POE_Part3_st10153536\\Rent.xaml.cs",
+              "RelativeToolTip": "POE_Part3_st10153536\\Rent.xaml.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAA2wDcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T21:51:12.345Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Savings.xaml",
+              "DocumentMoniker": "C:\\Users\\Josh\\Desktop\\Bachelor of Computer Applications Development - Copy\\Year 2\\Programming C#\\POE_Part3_st10153536_MainWindow\\POE_Part3_st10153536\\Savings.xaml",
+              "RelativeDocumentMoniker": "POE_Part3_st10153536\\Savings.xaml",
+              "ToolTip": "C:\\Users\\Josh\\Desktop\\Bachelor of Computer Applications Development - Copy\\Year 2\\Programming C#\\POE_Part3_st10153536_MainWindow\\POE_Part3_st10153536\\Savings.xaml",
+              "RelativeToolTip": "POE_Part3_st10153536\\Savings.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-05T21:51:12.333Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Rent.xaml",
+              "DocumentMoniker": "C:\\Users\\Josh\\Desktop\\Bachelor of Computer Applications Development - Copy\\Year 2\\Programming C#\\POE_Part3_st10153536_MainWindow\\POE_Part3_st10153536\\Rent.xaml",
+              "RelativeDocumentMoniker": "POE_Part3_st10153536\\Rent.xaml",
+              "ToolTip": "C:\\Users\\Josh\\Desktop\\Bachelor of Computer Applications Development - Copy\\Year 2\\Programming C#\\POE_Part3_st10153536_MainWindow\\POE_Part3_st10153536\\Rent.xaml",
+              "RelativeToolTip": "POE_Part3_st10153536\\Rent.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-05T21:51:12.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Josh\\Desktop\\Bachelor of Computer Applications Development - Copy\\Year 2\\Programming C#\\POE_Part3_st10153536_MainWindow\\POE_Part3_st10153536\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "POE_Part3_st10153536\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Josh\\Desktop\\Bachelor of Computer Applications Development - Copy\\Year 2\\Programming C#\\POE_Part3_st10153536_MainWindow\\POE_Part3_st10153536\\MainWindow.xaml",
+              "RelativeToolTip": "POE_Part3_st10153536\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-05T21:51:12.348Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Josh\\Desktop\\Bachelor of Computer Applications Development - Copy\\Year 2\\Programming C#\\POE_Part3_st10153536_MainWindow\\POE_Part3_st10153536\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "POE_Part3_st10153536\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Josh\\Desktop\\Bachelor of Computer Applications Development - Copy\\Year 2\\Programming C#\\POE_Part3_st10153536_MainWindow\\POE_Part3_st10153536\\MainWindow.xaml.cs",
+              "RelativeToolTip": "POE_Part3_st10153536\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAFMAAAAAAAAAAAAqwHEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T21:51:12.337Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Window3.xaml",
+              "DocumentMoniker": "C:\\Users\\Josh\\source\\repos\\POE_Part3_st10153536_MainWindow\\POE_Part3_st10153536\\Window3.xaml",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\source\\repos\\POE_Part3_st10153536_MainWindow\\POE_Part3_st10153536\\Window3.xaml",
+              "ToolTip": "C:\\Users\\Josh\\source\\repos\\POE_Part3_st10153536_MainWindow\\POE_Part3_st10153536\\Window3.xaml",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\source\\repos\\POE_Part3_st10153536_MainWindow\\POE_Part3_st10153536\\Window3.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2022-06-30T15:56:34.092Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

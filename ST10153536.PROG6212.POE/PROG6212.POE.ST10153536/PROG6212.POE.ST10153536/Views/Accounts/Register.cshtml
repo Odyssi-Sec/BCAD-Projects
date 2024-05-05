@@ -1,0 +1,29 @@
+﻿@{
+    ViewData["Title"] = "Register";
+    var successMessage = TempData["SuccessMessage"] as string;
+}
+
+<h2>@ViewData["Title"]</h2>
+
+@if (!string.IsNullOrEmpty(successMessage))
+{
+    <div class="alert alert-success" role="alert">
+        @successMessage
+    </div>
+}
+
+<form asp-controller="Accounts" asp-action="Register" method="post">
+    <div>
+        <label for="Username">Username:</label>
+        <input type="text" id="Username" name="Username" />
+        <span>@Html.ValidationMessage("Username")</span>
+    </div>
+
+    <div>
+        <label for="PasswordHash">Password:</label>
+        <input type="password" id="Password" name="PasswordHash" />
+        <span>@Html.ValidationMessage("PasswordHash")</span>
+    </div>
+
+    <button type="submit">Register</button>
+</form>

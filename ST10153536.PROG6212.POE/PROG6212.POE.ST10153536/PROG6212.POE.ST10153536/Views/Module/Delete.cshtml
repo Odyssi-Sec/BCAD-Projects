@@ -1,0 +1,9 @@
+﻿@model PROG6212.POE.ST10153536.Models.Modules
+
+<h2>Confirm Deletion</h2>
+<p>Are you sure you want to delete the module: <strong>@Model.Code - @Model.Name</strong>?</p>
+
+<form method="post" action="@Url.Action("Delete", "Module", new { id = Model.ModuleId })">
+    <button type="submit" class="btn btn-danger">Yes, Delete</button>
+    <a asp-action="ModuleShow" class="btn btn-secondary">Cancel</a>
+</form>

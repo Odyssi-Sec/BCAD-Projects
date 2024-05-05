@@ -1,0 +1,129 @@
+﻿@model IEnumerable<PROG6212.POE.ST10153536.Models.Modules>
+
+@{
+    ViewData["Title"] = "ModuleShow";
+}
+
+<style>
+    body {
+        font-family: 'Arial', sans-serif;
+        background-color: #f4f4f4;
+    }
+
+    .container {
+        margin-top: 50px;
+    }
+
+    h2 {
+        color: #007bff;
+        font-weight: bold;
+    }
+
+    .btn-primary {
+        background-color: #007bff;
+        border-color: #007bff;
+    }
+
+        .btn-primary:hover {
+            background-color: #0056b3;
+            border-color: #0056b3;
+        }
+
+    .card {
+        border: 1px solid #ddd;
+        border-radius: 8px;
+        margin-bottom: 20px;
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    }
+
+    .card-title {
+        font-size: 1.2rem;
+        font-weight: bold;
+        color: #333;
+    }
+
+    .card-text {
+        color: #555;
+    }
+
+    .input-group-text {
+        background-color: #007bff;
+        color: #fff;
+        border: none;
+    }
+
+    .form-control {
+        border-radius: 4px;
+    }
+
+    .btn-success {
+        background-color: #28a745;
+        border-color: #28a745;
+    }
+
+        .btn-success:hover {
+            background-color: #218838;
+            border-color: #218838;
+        }
+
+    .btn-warning {
+        background-color: #ffc107;
+        border-color: #ffc107;
+    }
+
+        .btn-warning:hover {
+            background-color: #e0a800;
+            border-color: #e0a800;
+        }
+
+    .btn-danger {
+        background-color: #dc3545;
+        border-color: #dc3545;
+    }
+
+        .btn-danger:hover {
+            background-color: #c82333;
+            border-color: #c82333;
+        }
+</style>
+
+<div class="container mt-5">
+    <h2 class="mb-4">Modules for the Semester</h2>
+
+    <a href="@Url.Action("Create", "Module")" class="btn btn-primary mb-4">Add Module</a>
+
+    <div class="row">
+        @foreach (var module in Model)
+        {
+            <div class="col-md-4 mb-4">
+                <div class="card">
+                    <div class="card-body">
+                        <h5 class="card-title">@module.Code - @module.Name</h5>
+                        <p class="card-text">Credits: <br />@module.Credits</p>
+                        <p class="card-text">Class Hours per Week: <br />@module.ClassHoursPerWeek</p>
+                        <p class="card-text">Start Date: <br />@module.StartDate.ToShortDateString()</p>
+                        <p class="card-text">Number of Weeks: <br />@module.NumberOfWeeks</p>
+                        <p class="card-text">Remaining Self-Study Hours for Current Week: <br />@module.CurrentWeekSelfStudyRemain</p>
+                        <p class="card-text">Hours Spent: <br />@module.HoursSpent</p>
+
+                        <button id="saveButton_@module.ModuleId" type="button" class="btn btn-primary" style="display: none;" onclick="saveChanges('@module.ModuleId', userId, event)">Save</button>
+
+                        <p class="card-text">Self-Study Hours per Week: <br />@(module.SelfStudyHours != null ? (module.SelfStudyHours < 0 ? -module.SelfStudyHours : module.SelfStudyHours) : 0)</p>
+
+                        <a class="btn btn-warning" href="@Url.Action("Edit", "Module", new { id = module.ModuleId })">Edit Module</a>
+
+                        <form method="post" action="@Url.Action("Delete", "Module", new { id = module.ModuleId })">
+                            @Html.AntiForgeryToken()
+                            <button type="submit" class="btn btn-danger">Delete</button>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        }
+    </div>
+
+    <input type="hidden" id="moduleIds" value="@string.Join(",", Model.Select(m => m.ModuleId))" />
+
+    <script src="https://code.jquery.com/jquery-3.6.4.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+</div>

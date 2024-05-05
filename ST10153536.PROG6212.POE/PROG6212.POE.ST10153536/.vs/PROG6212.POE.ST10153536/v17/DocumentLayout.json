@@ -1,0 +1,496 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Josh\\Desktop\\Bachelor of Computer Applications Development - Copy\\Year 3\\2nd Semester\\PROG6212\\ST10153536.PROG6212.POE\\PROG6212.POE.ST10153536\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7DB95D48-23DB-4936-BBDE-A08797B1DD4A}|PROG6212.POE.ST10153536\\PROG6212.POE.ST10153536.csproj|c:\\users\\josh\\desktop\\bachelor of computer applications development - copy\\year 3\\2nd semester\\prog6212\\st10153536.prog6212.poe\\prog6212.poe.st10153536\\prog6212.poe.st10153536\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DB95D48-23DB-4936-BBDE-A08797B1DD4A}|PROG6212.POE.ST10153536\\PROG6212.POE.ST10153536.csproj|solutionrelative:prog6212.poe.st10153536\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DB95D48-23DB-4936-BBDE-A08797B1DD4A}|PROG6212.POE.ST10153536\\PROG6212.POE.ST10153536.csproj|c:\\users\\josh\\desktop\\bachelor of computer applications development - copy\\year 3\\2nd semester\\prog6212\\st10153536.prog6212.poe\\prog6212.poe.st10153536\\prog6212.poe.st10153536\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DB95D48-23DB-4936-BBDE-A08797B1DD4A}|PROG6212.POE.ST10153536\\PROG6212.POE.ST10153536.csproj|solutionrelative:prog6212.poe.st10153536\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DB95D48-23DB-4936-BBDE-A08797B1DD4A}|PROG6212.POE.ST10153536\\PROG6212.POE.ST10153536.csproj|c:\\users\\josh\\desktop\\bachelor of computer applications development - copy\\year 3\\2nd semester\\prog6212\\st10153536.prog6212.poe\\prog6212.poe.st10153536\\prog6212.poe.st10153536\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7DB95D48-23DB-4936-BBDE-A08797B1DD4A}|PROG6212.POE.ST10153536\\PROG6212.POE.ST10153536.csproj|solutionrelative:prog6212.poe.st10153536\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DB95D48-23DB-4936-BBDE-A08797B1DD4A}|PROG6212.POE.ST10153536\\PROG6212.POE.ST10153536.csproj|c:\\users\\josh\\desktop\\bachelor of computer applications development - copy\\year 3\\2nd semester\\prog6212\\st10153536.prog6212.poe\\prog6212.poe.st10153536\\prog6212.poe.st10153536\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7DB95D48-23DB-4936-BBDE-A08797B1DD4A}|PROG6212.POE.ST10153536\\PROG6212.POE.ST10153536.csproj|solutionrelative:prog6212.poe.st10153536\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DB95D48-23DB-4936-BBDE-A08797B1DD4A}|PROG6212.POE.ST10153536\\PROG6212.POE.ST10153536.csproj|c:\\users\\josh\\desktop\\bachelor of computer applications development - copy\\year 3\\2nd semester\\prog6212\\st10153536.prog6212.poe\\prog6212.poe.st10153536\\prog6212.poe.st10153536\\views\\module\\moduleshow.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7DB95D48-23DB-4936-BBDE-A08797B1DD4A}|PROG6212.POE.ST10153536\\PROG6212.POE.ST10153536.csproj|solutionrelative:prog6212.poe.st10153536\\views\\module\\moduleshow.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DB95D48-23DB-4936-BBDE-A08797B1DD4A}|PROG6212.POE.ST10153536\\PROG6212.POE.ST10153536.csproj|c:\\users\\josh\\desktop\\bachelor of computer applications development - copy\\year 3\\2nd semester\\prog6212\\st10153536.prog6212.poe\\prog6212.poe.st10153536\\prog6212.poe.st10153536\\views\\module\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7DB95D48-23DB-4936-BBDE-A08797B1DD4A}|PROG6212.POE.ST10153536\\PROG6212.POE.ST10153536.csproj|solutionrelative:prog6212.poe.st10153536\\views\\module\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DB95D48-23DB-4936-BBDE-A08797B1DD4A}|PROG6212.POE.ST10153536\\PROG6212.POE.ST10153536.csproj|c:\\users\\josh\\desktop\\bachelor of computer applications development - copy\\year 3\\2nd semester\\prog6212\\st10153536.prog6212.poe\\prog6212.poe.st10153536\\prog6212.poe.st10153536\\views\\module\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7DB95D48-23DB-4936-BBDE-A08797B1DD4A}|PROG6212.POE.ST10153536\\PROG6212.POE.ST10153536.csproj|solutionrelative:prog6212.poe.st10153536\\views\\module\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DB95D48-23DB-4936-BBDE-A08797B1DD4A}|PROG6212.POE.ST10153536\\PROG6212.POE.ST10153536.csproj|c:\\users\\josh\\desktop\\bachelor of computer applications development - copy\\year 3\\2nd semester\\prog6212\\st10153536.prog6212.poe\\prog6212.poe.st10153536\\prog6212.poe.st10153536\\views\\module\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7DB95D48-23DB-4936-BBDE-A08797B1DD4A}|PROG6212.POE.ST10153536\\PROG6212.POE.ST10153536.csproj|solutionrelative:prog6212.poe.st10153536\\views\\module\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DB95D48-23DB-4936-BBDE-A08797B1DD4A}|PROG6212.POE.ST10153536\\PROG6212.POE.ST10153536.csproj|c:\\users\\josh\\desktop\\bachelor of computer applications development - copy\\year 3\\2nd semester\\prog6212\\st10153536.prog6212.poe\\prog6212.poe.st10153536\\prog6212.poe.st10153536\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7DB95D48-23DB-4936-BBDE-A08797B1DD4A}|PROG6212.POE.ST10153536\\PROG6212.POE.ST10153536.csproj|solutionrelative:prog6212.poe.st10153536\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DB95D48-23DB-4936-BBDE-A08797B1DD4A}|PROG6212.POE.ST10153536\\PROG6212.POE.ST10153536.csproj|c:\\users\\josh\\desktop\\bachelor of computer applications development - copy\\year 3\\2nd semester\\prog6212\\st10153536.prog6212.poe\\prog6212.poe.st10153536\\prog6212.poe.st10153536\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7DB95D48-23DB-4936-BBDE-A08797B1DD4A}|PROG6212.POE.ST10153536\\PROG6212.POE.ST10153536.csproj|solutionrelative:prog6212.poe.st10153536\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DB95D48-23DB-4936-BBDE-A08797B1DD4A}|PROG6212.POE.ST10153536\\PROG6212.POE.ST10153536.csproj|c:\\users\\josh\\desktop\\bachelor of computer applications development - copy\\year 3\\2nd semester\\prog6212\\st10153536.prog6212.poe\\prog6212.poe.st10153536\\prog6212.poe.st10153536\\views\\graph\\linegraph.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7DB95D48-23DB-4936-BBDE-A08797B1DD4A}|PROG6212.POE.ST10153536\\PROG6212.POE.ST10153536.csproj|solutionrelative:prog6212.poe.st10153536\\views\\graph\\linegraph.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DB95D48-23DB-4936-BBDE-A08797B1DD4A}|PROG6212.POE.ST10153536\\PROG6212.POE.ST10153536.csproj|c:\\users\\josh\\desktop\\bachelor of computer applications development - copy\\year 3\\2nd semester\\prog6212\\st10153536.prog6212.poe\\prog6212.poe.st10153536\\prog6212.poe.st10153536\\views\\accounts\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7DB95D48-23DB-4936-BBDE-A08797B1DD4A}|PROG6212.POE.ST10153536\\PROG6212.POE.ST10153536.csproj|solutionrelative:prog6212.poe.st10153536\\views\\accounts\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DB95D48-23DB-4936-BBDE-A08797B1DD4A}|PROG6212.POE.ST10153536\\PROG6212.POE.ST10153536.csproj|c:\\users\\josh\\desktop\\bachelor of computer applications development - copy\\year 3\\2nd semester\\prog6212\\st10153536.prog6212.poe\\prog6212.poe.st10153536\\prog6212.poe.st10153536\\views\\accounts\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7DB95D48-23DB-4936-BBDE-A08797B1DD4A}|PROG6212.POE.ST10153536\\PROG6212.POE.ST10153536.csproj|solutionrelative:prog6212.poe.st10153536\\views\\accounts\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DB95D48-23DB-4936-BBDE-A08797B1DD4A}|PROG6212.POE.ST10153536\\PROG6212.POE.ST10153536.csproj|c:\\users\\josh\\desktop\\bachelor of computer applications development - copy\\year 3\\2nd semester\\prog6212\\st10153536.prog6212.poe\\prog6212.poe.st10153536\\prog6212.poe.st10153536\\services\\userservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DB95D48-23DB-4936-BBDE-A08797B1DD4A}|PROG6212.POE.ST10153536\\PROG6212.POE.ST10153536.csproj|solutionrelative:prog6212.poe.st10153536\\services\\userservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DB95D48-23DB-4936-BBDE-A08797B1DD4A}|PROG6212.POE.ST10153536\\PROG6212.POE.ST10153536.csproj|c:\\users\\josh\\desktop\\bachelor of computer applications development - copy\\year 3\\2nd semester\\prog6212\\st10153536.prog6212.poe\\prog6212.poe.st10153536\\prog6212.poe.st10153536\\models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DB95D48-23DB-4936-BBDE-A08797B1DD4A}|PROG6212.POE.ST10153536\\PROG6212.POE.ST10153536.csproj|solutionrelative:prog6212.poe.st10153536\\models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DB95D48-23DB-4936-BBDE-A08797B1DD4A}|PROG6212.POE.ST10153536\\PROG6212.POE.ST10153536.csproj|c:\\users\\josh\\desktop\\bachelor of computer applications development - copy\\year 3\\2nd semester\\prog6212\\st10153536.prog6212.poe\\prog6212.poe.st10153536\\prog6212.poe.st10153536\\models\\modules.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DB95D48-23DB-4936-BBDE-A08797B1DD4A}|PROG6212.POE.ST10153536\\PROG6212.POE.ST10153536.csproj|solutionrelative:prog6212.poe.st10153536\\models\\modules.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DB95D48-23DB-4936-BBDE-A08797B1DD4A}|PROG6212.POE.ST10153536\\PROG6212.POE.ST10153536.csproj|c:\\users\\josh\\desktop\\bachelor of computer applications development - copy\\year 3\\2nd semester\\prog6212\\st10153536.prog6212.poe\\prog6212.poe.st10153536\\prog6212.poe.st10153536\\models\\graphdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DB95D48-23DB-4936-BBDE-A08797B1DD4A}|PROG6212.POE.ST10153536\\PROG6212.POE.ST10153536.csproj|solutionrelative:prog6212.poe.st10153536\\models\\graphdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DB95D48-23DB-4936-BBDE-A08797B1DD4A}|PROG6212.POE.ST10153536\\PROG6212.POE.ST10153536.csproj|c:\\users\\josh\\desktop\\bachelor of computer applications development - copy\\year 3\\2nd semester\\prog6212\\st10153536.prog6212.poe\\prog6212.poe.st10153536\\prog6212.poe.st10153536\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DB95D48-23DB-4936-BBDE-A08797B1DD4A}|PROG6212.POE.ST10153536\\PROG6212.POE.ST10153536.csproj|solutionrelative:prog6212.poe.st10153536\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DB95D48-23DB-4936-BBDE-A08797B1DD4A}|PROG6212.POE.ST10153536\\PROG6212.POE.ST10153536.csproj|c:\\users\\josh\\desktop\\bachelor of computer applications development - copy\\year 3\\2nd semester\\prog6212\\st10153536.prog6212.poe\\prog6212.poe.st10153536\\prog6212.poe.st10153536\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DB95D48-23DB-4936-BBDE-A08797B1DD4A}|PROG6212.POE.ST10153536\\PROG6212.POE.ST10153536.csproj|solutionrelative:prog6212.poe.st10153536\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DB95D48-23DB-4936-BBDE-A08797B1DD4A}|PROG6212.POE.ST10153536\\PROG6212.POE.ST10153536.csproj|c:\\users\\josh\\desktop\\bachelor of computer applications development - copy\\year 3\\2nd semester\\prog6212\\st10153536.prog6212.poe\\prog6212.poe.st10153536\\prog6212.poe.st10153536\\controllers\\modulecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DB95D48-23DB-4936-BBDE-A08797B1DD4A}|PROG6212.POE.ST10153536\\PROG6212.POE.ST10153536.csproj|solutionrelative:prog6212.poe.st10153536\\controllers\\modulecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DB95D48-23DB-4936-BBDE-A08797B1DD4A}|PROG6212.POE.ST10153536\\PROG6212.POE.ST10153536.csproj|c:\\users\\josh\\desktop\\bachelor of computer applications development - copy\\year 3\\2nd semester\\prog6212\\st10153536.prog6212.poe\\prog6212.poe.st10153536\\prog6212.poe.st10153536\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DB95D48-23DB-4936-BBDE-A08797B1DD4A}|PROG6212.POE.ST10153536\\PROG6212.POE.ST10153536.csproj|solutionrelative:prog6212.poe.st10153536\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DB95D48-23DB-4936-BBDE-A08797B1DD4A}|PROG6212.POE.ST10153536\\PROG6212.POE.ST10153536.csproj|c:\\users\\josh\\desktop\\bachelor of computer applications development - copy\\year 3\\2nd semester\\prog6212\\st10153536.prog6212.poe\\prog6212.poe.st10153536\\prog6212.poe.st10153536\\controllers\\graphcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DB95D48-23DB-4936-BBDE-A08797B1DD4A}|PROG6212.POE.ST10153536\\PROG6212.POE.ST10153536.csproj|solutionrelative:prog6212.poe.st10153536\\controllers\\graphcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DB95D48-23DB-4936-BBDE-A08797B1DD4A}|PROG6212.POE.ST10153536\\PROG6212.POE.ST10153536.csproj|c:\\users\\josh\\desktop\\bachelor of computer applications development - copy\\year 3\\2nd semester\\prog6212\\st10153536.prog6212.poe\\prog6212.poe.st10153536\\prog6212.poe.st10153536\\controllers\\accountscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DB95D48-23DB-4936-BBDE-A08797B1DD4A}|PROG6212.POE.ST10153536\\PROG6212.POE.ST10153536.csproj|solutionrelative:prog6212.poe.st10153536\\controllers\\accountscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DB95D48-23DB-4936-BBDE-A08797B1DD4A}|PROG6212.POE.ST10153536\\PROG6212.POE.ST10153536.csproj|c:\\users\\josh\\desktop\\bachelor of computer applications development - copy\\year 3\\2nd semester\\prog6212\\st10153536.prog6212.poe\\prog6212.poe.st10153536\\prog6212.poe.st10153536\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7DB95D48-23DB-4936-BBDE-A08797B1DD4A}|PROG6212.POE.ST10153536\\PROG6212.POE.ST10153536.csproj|solutionrelative:prog6212.poe.st10153536\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DB95D48-23DB-4936-BBDE-A08797B1DD4A}|PROG6212.POE.ST10153536\\PROG6212.POE.ST10153536.csproj|c:\\users\\josh\\desktop\\bachelor of computer applications development - copy\\year 3\\2nd semester\\prog6212\\st10153536.prog6212.poe\\prog6212.poe.st10153536\\prog6212.poe.st10153536\\connectionstrings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DB95D48-23DB-4936-BBDE-A08797B1DD4A}|PROG6212.POE.ST10153536\\PROG6212.POE.ST10153536.csproj|solutionrelative:prog6212.poe.st10153536\\connectionstrings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DB95D48-23DB-4936-BBDE-A08797B1DD4A}|PROG6212.POE.ST10153536\\PROG6212.POE.ST10153536.csproj|c:\\users\\josh\\desktop\\bachelor of computer applications development - copy\\year 3\\2nd semester\\prog6212\\st10153536.prog6212.poe\\prog6212.poe.st10153536\\prog6212.poe.st10153536\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7DB95D48-23DB-4936-BBDE-A08797B1DD4A}|PROG6212.POE.ST10153536\\PROG6212.POE.ST10153536.csproj|solutionrelative:prog6212.poe.st10153536\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DB95D48-23DB-4936-BBDE-A08797B1DD4A}|PROG6212.POE.ST10153536\\PROG6212.POE.ST10153536.csproj|c:\\users\\josh\\desktop\\bachelor of computer applications development - copy\\year 3\\2nd semester\\prog6212\\st10153536.prog6212.poe\\prog6212.poe.st10153536\\prog6212.poe.st10153536\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7DB95D48-23DB-4936-BBDE-A08797B1DD4A}|PROG6212.POE.ST10153536\\PROG6212.POE.ST10153536.csproj|solutionrelative:prog6212.poe.st10153536\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DB95D48-23DB-4936-BBDE-A08797B1DD4A}|PROG6212.POE.ST10153536\\PROG6212.POE.ST10153536.csproj|c:\\users\\josh\\desktop\\bachelor of computer applications development - copy\\year 3\\2nd semester\\prog6212\\st10153536.prog6212.poe\\prog6212.poe.st10153536\\prog6212.poe.st10153536\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7DB95D48-23DB-4936-BBDE-A08797B1DD4A}|PROG6212.POE.ST10153536\\PROG6212.POE.ST10153536.csproj|solutionrelative:prog6212.poe.st10153536\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ModuleShow.cshtml",
+              "DocumentMoniker": "C:\\Users\\Josh\\Desktop\\Bachelor of Computer Applications Development - Copy\\Year 3\\2nd Semester\\PROG6212\\ST10153536.PROG6212.POE\\PROG6212.POE.ST10153536\\PROG6212.POE.ST10153536\\Views\\Module\\ModuleShow.cshtml",
+              "RelativeDocumentMoniker": "PROG6212.POE.ST10153536\\Views\\Module\\ModuleShow.cshtml",
+              "ToolTip": "C:\\Users\\Josh\\Desktop\\Bachelor of Computer Applications Development - Copy\\Year 3\\2nd Semester\\PROG6212\\ST10153536.PROG6212.POE\\PROG6212.POE.ST10153536\\PROG6212.POE.ST10153536\\Views\\Module\\ModuleShow.cshtml",
+              "RelativeToolTip": "PROG6212.POE.ST10153536\\Views\\Module\\ModuleShow.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAG4AAABOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-05T22:05:16.135Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Josh\\Desktop\\Bachelor of Computer Applications Development - Copy\\Year 3\\2nd Semester\\PROG6212\\ST10153536.PROG6212.POE\\PROG6212.POE.ST10153536\\PROG6212.POE.ST10153536\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "PROG6212.POE.ST10153536\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Josh\\Desktop\\Bachelor of Computer Applications Development - Copy\\Year 3\\2nd Semester\\PROG6212\\ST10153536.PROG6212.POE\\PROG6212.POE.ST10153536\\PROG6212.POE.ST10153536\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "PROG6212.POE.ST10153536\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAADcAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-05T22:05:16.145Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\Josh\\Desktop\\Bachelor of Computer Applications Development - Copy\\Year 3\\2nd Semester\\PROG6212\\ST10153536.PROG6212.POE\\PROG6212.POE.ST10153536\\PROG6212.POE.ST10153536\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "PROG6212.POE.ST10153536\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\Josh\\Desktop\\Bachelor of Computer Applications Development - Copy\\Year 3\\2nd Semester\\PROG6212\\ST10153536.PROG6212.POE\\PROG6212.POE.ST10153536\\PROG6212.POE.ST10153536\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "PROG6212.POE.ST10153536\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-05T22:05:16.216Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Josh\\Desktop\\Bachelor of Computer Applications Development - Copy\\Year 3\\2nd Semester\\PROG6212\\ST10153536.PROG6212.POE\\PROG6212.POE.ST10153536\\PROG6212.POE.ST10153536\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "PROG6212.POE.ST10153536\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Josh\\Desktop\\Bachelor of Computer Applications Development - Copy\\Year 3\\2nd Semester\\PROG6212\\ST10153536.PROG6212.POE\\PROG6212.POE.ST10153536\\PROG6212.POE.ST10153536\\ApplicationDbContext.cs",
+              "RelativeToolTip": "PROG6212.POE.ST10153536\\ApplicationDbContext.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAAAAYAAABTAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T22:05:16.179Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Josh\\Desktop\\Bachelor of Computer Applications Development - Copy\\Year 3\\2nd Semester\\PROG6212\\ST10153536.PROG6212.POE\\PROG6212.POE.ST10153536\\PROG6212.POE.ST10153536\\Program.cs",
+              "RelativeDocumentMoniker": "PROG6212.POE.ST10153536\\Program.cs",
+              "ToolTip": "C:\\Users\\Josh\\Desktop\\Bachelor of Computer Applications Development - Copy\\Year 3\\2nd Semester\\PROG6212\\ST10153536.PROG6212.POE\\PROG6212.POE.ST10153536\\PROG6212.POE.ST10153536\\Program.cs",
+              "RelativeToolTip": "PROG6212.POE.ST10153536\\Program.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAEYAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T22:05:16.182Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Josh\\Desktop\\Bachelor of Computer Applications Development - Copy\\Year 3\\2nd Semester\\PROG6212\\ST10153536.PROG6212.POE\\PROG6212.POE.ST10153536\\PROG6212.POE.ST10153536\\Views\\Module\\Edit.cshtml",
+              "RelativeDocumentMoniker": "PROG6212.POE.ST10153536\\Views\\Module\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Josh\\Desktop\\Bachelor of Computer Applications Development - Copy\\Year 3\\2nd Semester\\PROG6212\\ST10153536.PROG6212.POE\\PROG6212.POE.ST10153536\\PROG6212.POE.ST10153536\\Views\\Module\\Edit.cshtml",
+              "RelativeToolTip": "PROG6212.POE.ST10153536\\Views\\Module\\Edit.cshtml",
+              "ViewState": "AQIAAGUAAAAAAAAAAAAAAF0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-05T22:05:16.139Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Josh\\Desktop\\Bachelor of Computer Applications Development - Copy\\Year 3\\2nd Semester\\PROG6212\\ST10153536.PROG6212.POE\\PROG6212.POE.ST10153536\\PROG6212.POE.ST10153536\\Views\\Module\\Delete.cshtml",
+              "RelativeDocumentMoniker": "PROG6212.POE.ST10153536\\Views\\Module\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Josh\\Desktop\\Bachelor of Computer Applications Development - Copy\\Year 3\\2nd Semester\\PROG6212\\ST10153536.PROG6212.POE\\PROG6212.POE.ST10153536\\PROG6212.POE.ST10153536\\Views\\Module\\Delete.cshtml",
+              "RelativeToolTip": "PROG6212.POE.ST10153536\\Views\\Module\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-05T22:05:16.185Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Josh\\Desktop\\Bachelor of Computer Applications Development - Copy\\Year 3\\2nd Semester\\PROG6212\\ST10153536.PROG6212.POE\\PROG6212.POE.ST10153536\\PROG6212.POE.ST10153536\\Views\\Module\\Create.cshtml",
+              "RelativeDocumentMoniker": "PROG6212.POE.ST10153536\\Views\\Module\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Josh\\Desktop\\Bachelor of Computer Applications Development - Copy\\Year 3\\2nd Semester\\PROG6212\\ST10153536.PROG6212.POE\\PROG6212.POE.ST10153536\\PROG6212.POE.ST10153536\\Views\\Module\\Create.cshtml",
+              "RelativeToolTip": "PROG6212.POE.ST10153536\\Views\\Module\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAE4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-05T22:05:16.142Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\Josh\\Desktop\\Bachelor of Computer Applications Development - Copy\\Year 3\\2nd Semester\\PROG6212\\ST10153536.PROG6212.POE\\PROG6212.POE.ST10153536\\PROG6212.POE.ST10153536\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "PROG6212.POE.ST10153536\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\Josh\\Desktop\\Bachelor of Computer Applications Development - Copy\\Year 3\\2nd Semester\\PROG6212\\ST10153536.PROG6212.POE\\PROG6212.POE.ST10153536\\PROG6212.POE.ST10153536\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "PROG6212.POE.ST10153536\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-05T22:05:16.22Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Josh\\Desktop\\Bachelor of Computer Applications Development - Copy\\Year 3\\2nd Semester\\PROG6212\\ST10153536.PROG6212.POE\\PROG6212.POE.ST10153536\\PROG6212.POE.ST10153536\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "PROG6212.POE.ST10153536\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Josh\\Desktop\\Bachelor of Computer Applications Development - Copy\\Year 3\\2nd Semester\\PROG6212\\ST10153536.PROG6212.POE\\PROG6212.POE.ST10153536\\PROG6212.POE.ST10153536\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "PROG6212.POE.ST10153536\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-05T22:05:16.201Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LineGraph.cshtml",
+              "DocumentMoniker": "C:\\Users\\Josh\\Desktop\\Bachelor of Computer Applications Development - Copy\\Year 3\\2nd Semester\\PROG6212\\ST10153536.PROG6212.POE\\PROG6212.POE.ST10153536\\PROG6212.POE.ST10153536\\Views\\Graph\\LineGraph.cshtml",
+              "RelativeDocumentMoniker": "PROG6212.POE.ST10153536\\Views\\Graph\\LineGraph.cshtml",
+              "ToolTip": "C:\\Users\\Josh\\Desktop\\Bachelor of Computer Applications Development - Copy\\Year 3\\2nd Semester\\PROG6212\\ST10153536.PROG6212.POE\\PROG6212.POE.ST10153536\\PROG6212.POE.ST10153536\\Views\\Graph\\LineGraph.cshtml",
+              "RelativeToolTip": "PROG6212.POE.ST10153536\\Views\\Graph\\LineGraph.cshtml",
+              "ViewState": "AQIAAGIAAAAAAAAAAAAAAFgAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-05T22:05:16.128Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\Josh\\Desktop\\Bachelor of Computer Applications Development - Copy\\Year 3\\2nd Semester\\PROG6212\\ST10153536.PROG6212.POE\\PROG6212.POE.ST10153536\\PROG6212.POE.ST10153536\\Views\\Accounts\\Register.cshtml",
+              "RelativeDocumentMoniker": "PROG6212.POE.ST10153536\\Views\\Accounts\\Register.cshtml",
+              "ToolTip": "C:\\Users\\Josh\\Desktop\\Bachelor of Computer Applications Development - Copy\\Year 3\\2nd Semester\\PROG6212\\ST10153536.PROG6212.POE\\PROG6212.POE.ST10153536\\PROG6212.POE.ST10153536\\Views\\Accounts\\Register.cshtml",
+              "RelativeToolTip": "PROG6212.POE.ST10153536\\Views\\Accounts\\Register.cshtml",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAAB0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-05T22:05:16.212Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\Josh\\Desktop\\Bachelor of Computer Applications Development - Copy\\Year 3\\2nd Semester\\PROG6212\\ST10153536.PROG6212.POE\\PROG6212.POE.ST10153536\\PROG6212.POE.ST10153536\\Views\\Accounts\\Login.cshtml",
+              "RelativeDocumentMoniker": "PROG6212.POE.ST10153536\\Views\\Accounts\\Login.cshtml",
+              "ToolTip": "C:\\Users\\Josh\\Desktop\\Bachelor of Computer Applications Development - Copy\\Year 3\\2nd Semester\\PROG6212\\ST10153536.PROG6212.POE\\PROG6212.POE.ST10153536\\PROG6212.POE.ST10153536\\Views\\Accounts\\Login.cshtml",
+              "RelativeToolTip": "PROG6212.POE.ST10153536\\Views\\Accounts\\Login.cshtml",
+              "ViewState": "AQIAAHwAAAAAAAAAAAAAAHAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-05T22:05:16.158Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UserServices.cs",
+              "DocumentMoniker": "C:\\Users\\Josh\\Desktop\\Bachelor of Computer Applications Development - Copy\\Year 3\\2nd Semester\\PROG6212\\ST10153536.PROG6212.POE\\PROG6212.POE.ST10153536\\PROG6212.POE.ST10153536\\Services\\UserServices.cs",
+              "RelativeDocumentMoniker": "PROG6212.POE.ST10153536\\Services\\UserServices.cs",
+              "ToolTip": "C:\\Users\\Josh\\Desktop\\Bachelor of Computer Applications Development - Copy\\Year 3\\2nd Semester\\PROG6212\\ST10153536.PROG6212.POE\\PROG6212.POE.ST10153536\\PROG6212.POE.ST10153536\\Services\\UserServices.cs",
+              "RelativeToolTip": "PROG6212.POE.ST10153536\\Services\\UserServices.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T22:05:16.152Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Users.cs",
+              "DocumentMoniker": "C:\\Users\\Josh\\Desktop\\Bachelor of Computer Applications Development - Copy\\Year 3\\2nd Semester\\PROG6212\\ST10153536.PROG6212.POE\\PROG6212.POE.ST10153536\\PROG6212.POE.ST10153536\\Models\\Users.cs",
+              "RelativeDocumentMoniker": "PROG6212.POE.ST10153536\\Models\\Users.cs",
+              "ToolTip": "C:\\Users\\Josh\\Desktop\\Bachelor of Computer Applications Development - Copy\\Year 3\\2nd Semester\\PROG6212\\ST10153536.PROG6212.POE\\PROG6212.POE.ST10153536\\PROG6212.POE.ST10153536\\Models\\Users.cs",
+              "RelativeToolTip": "PROG6212.POE.ST10153536\\Models\\Users.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T22:05:16.162Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Modules.cs",
+              "DocumentMoniker": "C:\\Users\\Josh\\Desktop\\Bachelor of Computer Applications Development - Copy\\Year 3\\2nd Semester\\PROG6212\\ST10153536.PROG6212.POE\\PROG6212.POE.ST10153536\\PROG6212.POE.ST10153536\\Models\\Modules.cs",
+              "RelativeDocumentMoniker": "PROG6212.POE.ST10153536\\Models\\Modules.cs",
+              "ToolTip": "C:\\Users\\Josh\\Desktop\\Bachelor of Computer Applications Development - Copy\\Year 3\\2nd Semester\\PROG6212\\ST10153536.PROG6212.POE\\PROG6212.POE.ST10153536\\PROG6212.POE.ST10153536\\Models\\Modules.cs",
+              "RelativeToolTip": "PROG6212.POE.ST10153536\\Models\\Modules.cs",
+              "ViewState": "AQIAADkAAAAAAAAAAAAAACoAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T22:05:16.155Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "GraphData.cs",
+              "DocumentMoniker": "C:\\Users\\Josh\\Desktop\\Bachelor of Computer Applications Development - Copy\\Year 3\\2nd Semester\\PROG6212\\ST10153536.PROG6212.POE\\PROG6212.POE.ST10153536\\PROG6212.POE.ST10153536\\Models\\GraphData.cs",
+              "RelativeDocumentMoniker": "PROG6212.POE.ST10153536\\Models\\GraphData.cs",
+              "ToolTip": "C:\\Users\\Josh\\Desktop\\Bachelor of Computer Applications Development - Copy\\Year 3\\2nd Semester\\PROG6212\\ST10153536.PROG6212.POE\\PROG6212.POE.ST10153536\\PROG6212.POE.ST10153536\\Models\\GraphData.cs",
+              "RelativeToolTip": "PROG6212.POE.ST10153536\\Models\\GraphData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T22:05:16.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Josh\\Desktop\\Bachelor of Computer Applications Development - Copy\\Year 3\\2nd Semester\\PROG6212\\ST10153536.PROG6212.POE\\PROG6212.POE.ST10153536\\PROG6212.POE.ST10153536\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "PROG6212.POE.ST10153536\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\Josh\\Desktop\\Bachelor of Computer Applications Development - Copy\\Year 3\\2nd Semester\\PROG6212\\ST10153536.PROG6212.POE\\PROG6212.POE.ST10153536\\PROG6212.POE.ST10153536\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "PROG6212.POE.ST10153536\\Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T22:05:16.165Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\Josh\\Desktop\\Bachelor of Computer Applications Development - Copy\\Year 3\\2nd Semester\\PROG6212\\ST10153536.PROG6212.POE\\PROG6212.POE.ST10153536\\PROG6212.POE.ST10153536\\Interfaces\\IUserService.cs",
+              "RelativeDocumentMoniker": "PROG6212.POE.ST10153536\\Interfaces\\IUserService.cs",
+              "ToolTip": "C:\\Users\\Josh\\Desktop\\Bachelor of Computer Applications Development - Copy\\Year 3\\2nd Semester\\PROG6212\\ST10153536.PROG6212.POE\\PROG6212.POE.ST10153536\\PROG6212.POE.ST10153536\\Interfaces\\IUserService.cs",
+              "RelativeToolTip": "PROG6212.POE.ST10153536\\Interfaces\\IUserService.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T22:05:16.168Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ModuleController.cs",
+              "DocumentMoniker": "C:\\Users\\Josh\\Desktop\\Bachelor of Computer Applications Development - Copy\\Year 3\\2nd Semester\\PROG6212\\ST10153536.PROG6212.POE\\PROG6212.POE.ST10153536\\PROG6212.POE.ST10153536\\Controllers\\ModuleController.cs",
+              "RelativeDocumentMoniker": "PROG6212.POE.ST10153536\\Controllers\\ModuleController.cs",
+              "ToolTip": "C:\\Users\\Josh\\Desktop\\Bachelor of Computer Applications Development - Copy\\Year 3\\2nd Semester\\PROG6212\\ST10153536.PROG6212.POE\\PROG6212.POE.ST10153536\\PROG6212.POE.ST10153536\\Controllers\\ModuleController.cs",
+              "RelativeToolTip": "PROG6212.POE.ST10153536\\Controllers\\ModuleController.cs",
+              "ViewState": "AQIAADkBAAAAAAAAAAAqwE4BAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T22:05:16.172Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Josh\\Desktop\\Bachelor of Computer Applications Development - Copy\\Year 3\\2nd Semester\\PROG6212\\ST10153536.PROG6212.POE\\PROG6212.POE.ST10153536\\PROG6212.POE.ST10153536\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "PROG6212.POE.ST10153536\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Josh\\Desktop\\Bachelor of Computer Applications Development - Copy\\Year 3\\2nd Semester\\PROG6212\\ST10153536.PROG6212.POE\\PROG6212.POE.ST10153536\\PROG6212.POE.ST10153536\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "PROG6212.POE.ST10153536\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAqwBwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T22:05:16.132Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "GraphController.cs",
+              "DocumentMoniker": "C:\\Users\\Josh\\Desktop\\Bachelor of Computer Applications Development - Copy\\Year 3\\2nd Semester\\PROG6212\\ST10153536.PROG6212.POE\\PROG6212.POE.ST10153536\\PROG6212.POE.ST10153536\\Controllers\\GraphController.cs",
+              "RelativeDocumentMoniker": "PROG6212.POE.ST10153536\\Controllers\\GraphController.cs",
+              "ToolTip": "C:\\Users\\Josh\\Desktop\\Bachelor of Computer Applications Development - Copy\\Year 3\\2nd Semester\\PROG6212\\ST10153536.PROG6212.POE\\PROG6212.POE.ST10153536\\PROG6212.POE.ST10153536\\Controllers\\GraphController.cs",
+              "RelativeToolTip": "PROG6212.POE.ST10153536\\Controllers\\GraphController.cs",
+              "ViewState": "AQIAAG8AAAAAAAAAAAAowB8AAABVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T22:05:16.093Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "AccountsController.cs",
+              "DocumentMoniker": "C:\\Users\\Josh\\Desktop\\Bachelor of Computer Applications Development - Copy\\Year 3\\2nd Semester\\PROG6212\\ST10153536.PROG6212.POE\\PROG6212.POE.ST10153536\\PROG6212.POE.ST10153536\\Controllers\\AccountsController.cs",
+              "RelativeDocumentMoniker": "PROG6212.POE.ST10153536\\Controllers\\AccountsController.cs",
+              "ToolTip": "C:\\Users\\Josh\\Desktop\\Bachelor of Computer Applications Development - Copy\\Year 3\\2nd Semester\\PROG6212\\ST10153536.PROG6212.POE\\PROG6212.POE.ST10153536\\PROG6212.POE.ST10153536\\Controllers\\AccountsController.cs",
+              "RelativeToolTip": "PROG6212.POE.ST10153536\\Controllers\\AccountsController.cs",
+              "ViewState": "AQIAAIEAAAAAAAAAAAAowFIAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T22:05:16.176Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Josh\\Desktop\\Bachelor of Computer Applications Development - Copy\\Year 3\\2nd Semester\\PROG6212\\ST10153536.PROG6212.POE\\PROG6212.POE.ST10153536\\PROG6212.POE.ST10153536\\appsettings.json",
+              "RelativeDocumentMoniker": "PROG6212.POE.ST10153536\\appsettings.json",
+              "ToolTip": "C:\\Users\\Josh\\Desktop\\Bachelor of Computer Applications Development - Copy\\Year 3\\2nd Semester\\PROG6212\\ST10153536.PROG6212.POE\\PROG6212.POE.ST10153536\\PROG6212.POE.ST10153536\\appsettings.json",
+              "RelativeToolTip": "PROG6212.POE.ST10153536\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAACtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-05T22:05:16.189Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ConnectionStrings.cs",
+              "DocumentMoniker": "C:\\Users\\Josh\\Desktop\\Bachelor of Computer Applications Development - Copy\\Year 3\\2nd Semester\\PROG6212\\ST10153536.PROG6212.POE\\PROG6212.POE.ST10153536\\PROG6212.POE.ST10153536\\ConnectionStrings.cs",
+              "RelativeDocumentMoniker": "PROG6212.POE.ST10153536\\ConnectionStrings.cs",
+              "ToolTip": "C:\\Users\\Josh\\Desktop\\Bachelor of Computer Applications Development - Copy\\Year 3\\2nd Semester\\PROG6212\\ST10153536.PROG6212.POE\\PROG6212.POE.ST10153536\\PROG6212.POE.ST10153536\\ConnectionStrings.cs",
+              "RelativeToolTip": "PROG6212.POE.ST10153536\\ConnectionStrings.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T22:05:16.192Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Josh\\Desktop\\Bachelor of Computer Applications Development - Copy\\Year 3\\2nd Semester\\PROG6212\\ST10153536.PROG6212.POE\\PROG6212.POE.ST10153536\\PROG6212.POE.ST10153536\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "PROG6212.POE.ST10153536\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\Josh\\Desktop\\Bachelor of Computer Applications Development - Copy\\Year 3\\2nd Semester\\PROG6212\\ST10153536.PROG6212.POE\\PROG6212.POE.ST10153536\\PROG6212.POE.ST10153536\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "PROG6212.POE.ST10153536\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-05T22:05:16.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Josh\\Desktop\\Bachelor of Computer Applications Development - Copy\\Year 3\\2nd Semester\\PROG6212\\ST10153536.PROG6212.POE\\PROG6212.POE.ST10153536\\PROG6212.POE.ST10153536\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "PROG6212.POE.ST10153536\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Josh\\Desktop\\Bachelor of Computer Applications Development - Copy\\Year 3\\2nd Semester\\PROG6212\\ST10153536.PROG6212.POE\\PROG6212.POE.ST10153536\\PROG6212.POE.ST10153536\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "PROG6212.POE.ST10153536\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-05T22:05:16.207Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\Josh\\Desktop\\Bachelor of Computer Applications Development - Copy\\Year 3\\2nd Semester\\PROG6212\\ST10153536.PROG6212.POE\\PROG6212.POE.ST10153536\\PROG6212.POE.ST10153536\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "PROG6212.POE.ST10153536\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\Josh\\Desktop\\Bachelor of Computer Applications Development - Copy\\Year 3\\2nd Semester\\PROG6212\\ST10153536.PROG6212.POE\\PROG6212.POE.ST10153536\\PROG6212.POE.ST10153536\\appsettings.Development.json",
+              "RelativeToolTip": "PROG6212.POE.ST10153536\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-05T22:05:16.225Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

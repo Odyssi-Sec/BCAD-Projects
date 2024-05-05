@@ -1,0 +1,78 @@
+﻿@model PROG6212.POE.ST10153536.Models.Modules
+
+@{
+    ViewData["Title"] = "Add Module";
+}
+
+<style>
+    .form-group {
+        margin-bottom: 15px;
+    }
+
+    label {
+        display: block;
+        margin-bottom: 5px;
+    }
+
+    input {
+        width: calc(100% - 16px);
+        padding: 6px;
+        box-sizing: border-box;
+        margin-bottom: 10px;
+    }
+
+    button {
+        padding: 10px;
+        background-color: #007BFF;
+        color: #fff;
+        border: none;
+        cursor: pointer;
+    }
+</style>
+
+<h2>Add Module</h2>
+
+<form asp-action="Create" class="form">
+    <div class="form-group">
+        <label asp-for="Code">Code</label>
+        <input asp-for="Code" class="form-control" />
+        <span asp-validation-for="Code" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="Name">Name</label>
+        <input asp-for="Name" class="form-control" />
+        <span asp-validation-for="Name" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="Credits">Credits</label>
+        <input asp-for="Credits" class="form-control" />
+        <span asp-validation-for="Credits" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="ClassHoursPerWeek">Class Hours Per Week</label>
+        <input asp-for="ClassHoursPerWeek" class="form-control" />
+        <span asp-validation-for="ClassHoursPerWeek" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="NumberOfWeeks">Number of Weeks</label>
+        <input asp-for="NumberOfWeeks" class="form-control" />
+        <span asp-validation-for="NumberOfWeeks" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="StartDate">Start Date</label>
+        <input asp-for="StartDate" type="date" class="form-control" />
+        <span asp-validation-for="StartDate" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="UserId">User ID</label>
+        <input asp-for="UserId" class="form-control" readonly />
+    </div>
+
+    <button type="submit" class="btn btn-primary">Create Module</button>
+</form>

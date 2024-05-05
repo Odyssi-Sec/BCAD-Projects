@@ -1,0 +1,98 @@
+﻿@model PROG6212.POE.ST10153536.Models.GraphData
+
+@{
+    ViewData["Title"] = "Graph";
+}
+
+<div class="container mt-5">
+    <h2>Module Hours Graph</h2>
+
+    <canvas id="hoursChart" width="400" height="200"></canvas>
+</div>
+
+@section Scripts {
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chartjs-plugin-zoom"></script>
+
+    <script>
+        document.addEventListener('DOMContentLoaded', function () {
+            var ctx = document.getElementById('hoursChart').getContext('2d');
+
+            var selfStudyHours = @Html.Raw(Json.Serialize(Model.SelfStudyHours));
+
+            var chartConfig = {
+                type: 'line',
+                data: {
+                    labels: @Html.Raw(Json.Serialize(Model.Labels)),
+                    datasets: [
+                        {
+                            label: 'Hours Spent',
+                            data: @Html.Raw(Json.Serialize(Model.HoursSpent)),
+                            borderColor: 'rgba(75, 192, 192, 1)',
+                            borderWidth: 1,
+                            fill: false
+                        },
+                        { 
+                            label: 'Current Week SelfStudy Hours Remain',
+                            data: @Html.Raw(Json.Serialize(Model.CurrentWeekSelfStudyRemain)),
+                            borderColor: 'rgba(255, 99, 132, 1)',
+                            borderWidth: 1,
+                            fill: false
+                        },
+                        {
+                            label: 'Self-Study Hours',
+                            data: @Html.Raw(Json.Serialize(Model.SelfStudyHours)),
+                            borderColor: 'rgba(255, 206, 86, 1)',
+                            borderWidth: 1,
+                            fill: false
+                        }
+                    ]
+                },
+                options: {
+                    scales: {
+                        xAxes: [{
+                            type: 'time',
+                            distribution: 'linear',
+                            time: {
+                                unit: 'week', 
+                                displayFormats: {
+                                    week: 'MMM D' 
+                                }
+                            },
+                            scaleLabel: {
+                                display: true,
+                                labelString: 'Date'
+                            }
+                        }],
+                        yAxes: [{
+                            ticks: {
+                                beginAtZero: true
+                            },
+                            scaleLabel: {
+                                display: true,
+                                labelString: 'Hours'
+                            }
+                        }]
+                    },
+                    plugins: {
+                        zoom: {
+                            pan: {
+                                enabled: true,
+                                mode: 'x'
+                            },
+                            zoom: {
+                                enabled: true,
+                                mode: 'x'
+                            }
+                        }
+                    }
+                }
+            };
+
+            new Chart(ctx, chartConfig);
+
+
+        });
+
+    </script>
+}
